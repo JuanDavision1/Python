@@ -1,0 +1,1397 @@
+<!doctype html>
+<html class="no-js" lang="es-CO" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Archivo Index.html: para qué sirve y cómo se crea | Blog | Hosting Plus Colombia</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name='robots' content='max-image-preview:large' />
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v5.3.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.hostingplus.com.co/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" />
+<link rel="publisher" href="https://plus.google.com/+HostingplusCl"/>
+<meta property="og:locale" content="es_CO" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Archivo Index.html: para qué sirve y cómo se crea | Blog | Hosting Plus Colombia" />
+<meta property="og:description" content="Si eres novato en diseño o desarrollo web es posible que te preguntes qué es index.html y el motivo por el que aparece en la mayoría de webs. No te preocupes, vamos a darte respuesta a todas tus dudas. ¿Qué es index? Index.html es la página por defecto dentro de los directorios de los servidores de los sitios webs &hellip; Continued" />
+<meta property="og:url" content="https://www.hostingplus.com.co/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" />
+<meta property="og:site_name" content="Hosting Plus" />
+<meta property="article:publisher" content="https://www.facebook.com/HostingPlus.cl" />
+<meta property="article:section" content="Noticias" />
+<meta property="article:published_time" content="2020-04-19T11:22:00-05:00" />
+<meta property="article:modified_time" content="2020-03-25T10:34:50-05:00" />
+<meta property="og:updated_time" content="2020-03-25T10:34:50-05:00" />
+<meta property="og:image" content="https://www.hostingplus.com.co/wp-content/uploads/2020/03/index-html.jpg" />
+<meta property="og:image:secure_url" content="https://www.hostingplus.com.co/wp-content/uploads/2020/03/index-html.jpg" />
+<meta property="og:image:width" content="850" />
+<meta property="og:image:height" content="549" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Si eres novato en diseño o desarrollo web es posible que te preguntes qué es index.html y el motivo por el que aparece en la mayoría de webs. No te preocupes, vamos a darte respuesta a todas tus dudas. ¿Qué es index? Index.html es la página por defecto dentro de los directorios de los servidores de los sitios webs &hellip; Continued" />
+<meta name="twitter:title" content="Archivo Index.html: para qué sirve y cómo se crea | Blog | Hosting Plus Colombia" />
+<meta name="twitter:site" content="@hostingplus" />
+<meta name="twitter:image" content="https://www.hostingplus.com.co/wp-content/uploads/2020/03/index-html.jpg" />
+<meta name="twitter:creator" content="@hostingplus" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.hostingplus.com.co\/","name":"Hosting Plus Colombia","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.hostingplus.com.co\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.hostingplus.com.co\/blog\/archivo-index-html-para-que-sirve-y-como-se-crea\/","sameAs":["https:\/\/www.facebook.com\/HostingPlus.cl","https:\/\/www.instagram.com\/hostingplus.cl\/","https:\/\/plus.google.com\/+HostingplusCl","https:\/\/www.youtube.com\/channel\/UC8isJcrQ8yBcz51kjtGI6LA","https:\/\/twitter.com\/hostingplus"],"@id":"#organization","name":"HostingPlus","logo":"https:\/\/www.hostingplus.com.co\/wp-content\/uploads\/2018\/01\/logo.png"}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+
+
+<!-- WS Google Webmaster Tools v2.1 - https://wordpress.org/plugins/ws-google-webmaster-tools/ -->
+<!-- Website - http://www.webshouter.net/ -->
+<meta name="google-site-verification" content="k2xfnBd2a-sLUYA1GIoE5VVhVlhvlGSeDJI3BIJ8gWM" />
+<!-- / WS Google Webmaster Tools plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Hosting Plus &raquo; Archivo Index.html: para qué sirve y cómo se crea RSS de los comentarios" href="https://www.hostingplus.com.co/blog/archivo-index-html-para-que-sirve-y-como-se-crea/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-518762-1"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.7.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-518762-1',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						if ( document.cookie.indexOf( disableStrs[ index ] + '=true' ) > -1 ) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						window[ disableStrs[ index ] ] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						document.cookie = disableStrs[ index ] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[ disableStrs[ index ] ] = true;
+					}
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if ( mi_track_user ) {
+					function __gtagDataLayer() {
+						dataLayer.push( arguments );
+					}
+
+					function __gtagTracker( type, name, parameters ) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply( null, arguments );
+							return;
+						}
+
+						if ( type === 'event' ) {
+							
+															parameters.send_to = monsterinsights_frontend.ua;
+								__gtagDataLayer( type, name, parameters );
+													} else {
+							__gtagDataLayer.apply( null, arguments );
+						}
+					}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dZGIzZG' : true,
+											} );
+															__gtagTracker( 'config', 'UA-518762-1', {"forceSSL":"true"} );
+										window.gtag = __gtagTracker;											(function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( 'pageview' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[2] ) {
+												hitObject = {
+													'eventAction': 'page_view',
+													'page_path' : arguments[2],
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( typeof arguments[5] === 'object' ) {
+											Object.assign( hitObject, arguments[5] );
+										}
+										if ( 'undefined' !== typeof arguments[1].hitType ) {
+											hitObject = arguments[1];
+											if ( 'pageview' === hitObject.hitType ) {
+												hitObject.eventAction = 'page_view';
+											}
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var arg, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+										'page' : 'page_path',
+										'location' : 'page_location',
+										'title' : 'page_title',
+									};
+									for ( arg in args ) {
+																				if ( ! ( ! args.hasOwnProperty(arg) || ! gaMap.hasOwnProperty(arg) ) ) {
+											hit[gaMap[arg]] = args[arg];
+										} else {
+											hit[arg] = args[arg];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						})();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.hostingplus.com.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.4"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link data-optimized="1" rel='stylesheet' id='wp-block-library-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/601a4684e36d3c71c11c929a3ade2747.css?ver=fcfc5' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='kk-star-ratings-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/1e355086e3f3ebe35f79017ad7722bc5.css?ver=7f534' type='text/css' media='all' />
+<style id='extendify-gutenberg-patterns-and-templates-utilities-inline-css' type='text/css'>
+.ext-absolute{position:absolute!important}.ext-relative{position:relative!important}.ext-top-base{top:var(--wp--style--block-gap,1.75rem)!important}.ext-top-lg{top:var(--extendify--spacing--large,3rem)!important}.ext--top-base{top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--top-lg{top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-right-base{right:var(--wp--style--block-gap,1.75rem)!important}.ext-right-lg{right:var(--extendify--spacing--large,3rem)!important}.ext--right-base{right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--right-lg{right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-bottom-base{bottom:var(--wp--style--block-gap,1.75rem)!important}.ext-bottom-lg{bottom:var(--extendify--spacing--large,3rem)!important}.ext--bottom-base{bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--bottom-lg{bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-left-base{left:var(--wp--style--block-gap,1.75rem)!important}.ext-left-lg{left:var(--extendify--spacing--large,3rem)!important}.ext--left-base{left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--left-lg{left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-order-1{order:1!important}.ext-order-2{order:2!important}.ext-col-auto{grid-column:auto!important}.ext-col-span-1{grid-column:span 1/span 1!important}.ext-col-span-2{grid-column:span 2/span 2!important}.ext-col-span-3{grid-column:span 3/span 3!important}.ext-col-span-4{grid-column:span 4/span 4!important}.ext-col-span-5{grid-column:span 5/span 5!important}.ext-col-span-6{grid-column:span 6/span 6!important}.ext-col-span-7{grid-column:span 7/span 7!important}.ext-col-span-8{grid-column:span 8/span 8!important}.ext-col-span-9{grid-column:span 9/span 9!important}.ext-col-span-10{grid-column:span 10/span 10!important}.ext-col-span-11{grid-column:span 11/span 11!important}.ext-col-span-12{grid-column:span 12/span 12!important}.ext-col-span-full{grid-column:1/-1!important}.ext-col-start-1{grid-column-start:1!important}.ext-col-start-2{grid-column-start:2!important}.ext-col-start-3{grid-column-start:3!important}.ext-col-start-4{grid-column-start:4!important}.ext-col-start-5{grid-column-start:5!important}.ext-col-start-6{grid-column-start:6!important}.ext-col-start-7{grid-column-start:7!important}.ext-col-start-8{grid-column-start:8!important}.ext-col-start-9{grid-column-start:9!important}.ext-col-start-10{grid-column-start:10!important}.ext-col-start-11{grid-column-start:11!important}.ext-col-start-12{grid-column-start:12!important}.ext-col-start-13{grid-column-start:13!important}.ext-col-start-auto{grid-column-start:auto!important}.ext-col-end-1{grid-column-end:1!important}.ext-col-end-2{grid-column-end:2!important}.ext-col-end-3{grid-column-end:3!important}.ext-col-end-4{grid-column-end:4!important}.ext-col-end-5{grid-column-end:5!important}.ext-col-end-6{grid-column-end:6!important}.ext-col-end-7{grid-column-end:7!important}.ext-col-end-8{grid-column-end:8!important}.ext-col-end-9{grid-column-end:9!important}.ext-col-end-10{grid-column-end:10!important}.ext-col-end-11{grid-column-end:11!important}.ext-col-end-12{grid-column-end:12!important}.ext-col-end-13{grid-column-end:13!important}.ext-col-end-auto{grid-column-end:auto!important}.ext-row-auto{grid-row:auto!important}.ext-row-span-1{grid-row:span 1/span 1!important}.ext-row-span-2{grid-row:span 2/span 2!important}.ext-row-span-3{grid-row:span 3/span 3!important}.ext-row-span-4{grid-row:span 4/span 4!important}.ext-row-span-5{grid-row:span 5/span 5!important}.ext-row-span-6{grid-row:span 6/span 6!important}.ext-row-span-full{grid-row:1/-1!important}.ext-row-start-1{grid-row-start:1!important}.ext-row-start-2{grid-row-start:2!important}.ext-row-start-3{grid-row-start:3!important}.ext-row-start-4{grid-row-start:4!important}.ext-row-start-5{grid-row-start:5!important}.ext-row-start-6{grid-row-start:6!important}.ext-row-start-7{grid-row-start:7!important}.ext-row-start-auto{grid-row-start:auto!important}.ext-row-end-1{grid-row-end:1!important}.ext-row-end-2{grid-row-end:2!important}.ext-row-end-3{grid-row-end:3!important}.ext-row-end-4{grid-row-end:4!important}.ext-row-end-5{grid-row-end:5!important}.ext-row-end-6{grid-row-end:6!important}.ext-row-end-7{grid-row-end:7!important}.ext-row-end-auto{grid-row-end:auto!important}.ext-m-0:not([style*=margin]){margin:0!important}.ext-m-auto:not([style*=margin]){margin:auto!important}.ext-m-base:not([style*=margin]){margin:var(--wp--style--block-gap,1.75rem)!important}.ext-m-lg:not([style*=margin]){margin:var(--extendify--spacing--large,3rem)!important}.ext--m-base:not([style*=margin]){margin:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--m-lg:not([style*=margin]){margin:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-mx-0:not([style*=margin]){margin-left:0!important;margin-right:0!important}.ext-mx-auto:not([style*=margin]){margin-left:auto!important;margin-right:auto!important}.ext-mx-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important;margin-right:var(--wp--style--block-gap,1.75rem)!important}.ext-mx-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important;margin-right:var(--extendify--spacing--large,3rem)!important}.ext--mx-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--mx-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-my-0:not([style*=margin]){margin-bottom:0!important;margin-top:0!important}.ext-my-auto:not([style*=margin]){margin-bottom:auto!important;margin-top:auto!important}.ext-my-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important;margin-top:var(--wp--style--block-gap,1.75rem)!important}.ext-my-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important;margin-top:var(--extendify--spacing--large,3rem)!important}.ext--my-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--my-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-mt-0:not([style*=margin]){margin-top:0!important}.ext-mt-auto:not([style*=margin]){margin-top:auto!important}.ext-mt-base:not([style*=margin]){margin-top:var(--wp--style--block-gap,1.75rem)!important}.ext-mt-lg:not([style*=margin]){margin-top:var(--extendify--spacing--large,3rem)!important}.ext--mt-base:not([style*=margin]){margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--mt-lg:not([style*=margin]){margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-mr-0:not([style*=margin]){margin-right:0!important}.ext-mr-auto:not([style*=margin]){margin-right:auto!important}.ext-mr-base:not([style*=margin]){margin-right:var(--wp--style--block-gap,1.75rem)!important}.ext-mr-lg:not([style*=margin]){margin-right:var(--extendify--spacing--large,3rem)!important}.ext--mr-base:not([style*=margin]){margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--mr-lg:not([style*=margin]){margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-mb-0:not([style*=margin]){margin-bottom:0!important}.ext-mb-auto:not([style*=margin]){margin-bottom:auto!important}.ext-mb-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important}.ext-mb-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important}.ext--mb-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--mb-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-ml-0:not([style*=margin]){margin-left:0!important}.ext-ml-auto:not([style*=margin]){margin-left:auto!important}.ext-ml-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important}.ext-ml-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important}.ext--ml-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--ml-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-block{display:block!important}.ext-inline-block{display:inline-block!important}.ext-inline{display:inline!important}.ext-flex{display:flex!important}.ext-inline-flex{display:inline-flex!important}.ext-grid{display:grid!important}.ext-inline-grid{display:inline-grid!important}.ext-hidden{display:none!important}.ext-w-auto{width:auto!important}.ext-w-full{width:100%!important}.ext-max-w-full{max-width:100%!important}.ext-flex-1{flex:1 1 0%!important}.ext-flex-auto{flex:1 1 auto!important}.ext-flex-initial{flex:0 1 auto!important}.ext-flex-none{flex:none!important}.ext-flex-shrink-0{flex-shrink:0!important}.ext-flex-shrink{flex-shrink:1!important}.ext-flex-grow-0{flex-grow:0!important}.ext-flex-grow{flex-grow:1!important}.ext-list-none{list-style-type:none!important}.ext-grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))!important}.ext-grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))!important}.ext-grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))!important}.ext-grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))!important}.ext-grid-cols-5{grid-template-columns:repeat(5,minmax(0,1fr))!important}.ext-grid-cols-6{grid-template-columns:repeat(6,minmax(0,1fr))!important}.ext-grid-cols-7{grid-template-columns:repeat(7,minmax(0,1fr))!important}.ext-grid-cols-8{grid-template-columns:repeat(8,minmax(0,1fr))!important}.ext-grid-cols-9{grid-template-columns:repeat(9,minmax(0,1fr))!important}.ext-grid-cols-10{grid-template-columns:repeat(10,minmax(0,1fr))!important}.ext-grid-cols-11{grid-template-columns:repeat(11,minmax(0,1fr))!important}.ext-grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))!important}.ext-grid-cols-none{grid-template-columns:none!important}.ext-grid-rows-1{grid-template-rows:repeat(1,minmax(0,1fr))!important}.ext-grid-rows-2{grid-template-rows:repeat(2,minmax(0,1fr))!important}.ext-grid-rows-3{grid-template-rows:repeat(3,minmax(0,1fr))!important}.ext-grid-rows-4{grid-template-rows:repeat(4,minmax(0,1fr))!important}.ext-grid-rows-5{grid-template-rows:repeat(5,minmax(0,1fr))!important}.ext-grid-rows-6{grid-template-rows:repeat(6,minmax(0,1fr))!important}.ext-grid-rows-none{grid-template-rows:none!important}.ext-flex-row{flex-direction:row!important}.ext-flex-row-reverse{flex-direction:row-reverse!important}.ext-flex-col{flex-direction:column!important}.ext-flex-col-reverse{flex-direction:column-reverse!important}.ext-flex-wrap{flex-wrap:wrap!important}.ext-flex-wrap-reverse{flex-wrap:wrap-reverse!important}.ext-flex-nowrap{flex-wrap:nowrap!important}.ext-items-start{align-items:flex-start!important}.ext-items-end{align-items:flex-end!important}.ext-items-center{align-items:center!important}.ext-items-baseline{align-items:baseline!important}.ext-items-stretch{align-items:stretch!important}.ext-justify-start{justify-content:flex-start!important}.ext-justify-end{justify-content:flex-end!important}.ext-justify-center{justify-content:center!important}.ext-justify-between{justify-content:space-between!important}.ext-justify-around{justify-content:space-around!important}.ext-justify-evenly{justify-content:space-evenly!important}.ext-justify-items-start{justify-items:start!important}.ext-justify-items-end{justify-items:end!important}.ext-justify-items-center{justify-items:center!important}.ext-justify-items-stretch{justify-items:stretch!important}.ext-gap-0{gap:0!important}.ext-gap-base{gap:var(--wp--style--block-gap,1.75rem)!important}.ext-gap-lg{gap:var(--extendify--spacing--large,3rem)!important}.ext-gap-x-0{-moz-column-gap:0!important;column-gap:0!important}.ext-gap-x-base{-moz-column-gap:var(--wp--style--block-gap,1.75rem)!important;column-gap:var(--wp--style--block-gap,1.75rem)!important}.ext-gap-x-lg{-moz-column-gap:var(--extendify--spacing--large,3rem)!important;column-gap:var(--extendify--spacing--large,3rem)!important}.ext-gap-y-0{row-gap:0!important}.ext-gap-y-base{row-gap:var(--wp--style--block-gap,1.75rem)!important}.ext-gap-y-lg{row-gap:var(--extendify--spacing--large,3rem)!important}.ext-justify-self-auto{justify-self:auto!important}.ext-justify-self-start{justify-self:start!important}.ext-justify-self-end{justify-self:end!important}.ext-justify-self-center{justify-self:center!important}.ext-justify-self-stretch{justify-self:stretch!important}.ext-rounded-none{border-radius:0!important}.ext-rounded-full{border-radius:9999px!important}.ext-rounded-t-none{border-top-left-radius:0!important;border-top-right-radius:0!important}.ext-rounded-t-full{border-top-left-radius:9999px!important;border-top-right-radius:9999px!important}.ext-rounded-r-none{border-bottom-right-radius:0!important;border-top-right-radius:0!important}.ext-rounded-r-full{border-bottom-right-radius:9999px!important;border-top-right-radius:9999px!important}.ext-rounded-b-none{border-bottom-left-radius:0!important;border-bottom-right-radius:0!important}.ext-rounded-b-full{border-bottom-left-radius:9999px!important;border-bottom-right-radius:9999px!important}.ext-rounded-l-none{border-bottom-left-radius:0!important;border-top-left-radius:0!important}.ext-rounded-l-full{border-bottom-left-radius:9999px!important;border-top-left-radius:9999px!important}.ext-rounded-tl-none{border-top-left-radius:0!important}.ext-rounded-tl-full{border-top-left-radius:9999px!important}.ext-rounded-tr-none{border-top-right-radius:0!important}.ext-rounded-tr-full{border-top-right-radius:9999px!important}.ext-rounded-br-none{border-bottom-right-radius:0!important}.ext-rounded-br-full{border-bottom-right-radius:9999px!important}.ext-rounded-bl-none{border-bottom-left-radius:0!important}.ext-rounded-bl-full{border-bottom-left-radius:9999px!important}.ext-border-0{border-width:0!important}.ext-border-t-0{border-top-width:0!important}.ext-border-r-0{border-right-width:0!important}.ext-border-b-0{border-bottom-width:0!important}.ext-border-l-0{border-left-width:0!important}.ext-p-0:not([style*=padding]){padding:0!important}.ext-p-base:not([style*=padding]){padding:var(--wp--style--block-gap,1.75rem)!important}.ext-p-lg:not([style*=padding]){padding:var(--extendify--spacing--large,3rem)!important}.ext-px-0:not([style*=padding]){padding-left:0!important;padding-right:0!important}.ext-px-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important;padding-right:var(--wp--style--block-gap,1.75rem)!important}.ext-px-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important;padding-right:var(--extendify--spacing--large,3rem)!important}.ext-py-0:not([style*=padding]){padding-bottom:0!important;padding-top:0!important}.ext-py-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important;padding-top:var(--wp--style--block-gap,1.75rem)!important}.ext-py-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important;padding-top:var(--extendify--spacing--large,3rem)!important}.ext-pt-0:not([style*=padding]){padding-top:0!important}.ext-pt-base:not([style*=padding]){padding-top:var(--wp--style--block-gap,1.75rem)!important}.ext-pt-lg:not([style*=padding]){padding-top:var(--extendify--spacing--large,3rem)!important}.ext-pr-0:not([style*=padding]){padding-right:0!important}.ext-pr-base:not([style*=padding]){padding-right:var(--wp--style--block-gap,1.75rem)!important}.ext-pr-lg:not([style*=padding]){padding-right:var(--extendify--spacing--large,3rem)!important}.ext-pb-0:not([style*=padding]){padding-bottom:0!important}.ext-pb-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important}.ext-pb-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important}.ext-pl-0:not([style*=padding]){padding-left:0!important}.ext-pl-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important}.ext-pl-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important}.ext-text-left{text-align:left!important}.ext-text-center{text-align:center!important}.ext-text-right{text-align:right!important}.ext-leading-none{line-height:1!important}.ext-leading-tight{line-height:1.25!important}.ext-leading-snug{line-height:1.375!important}.ext-leading-normal{line-height:1.5!important}.ext-leading-relaxed{line-height:1.625!important}.ext-leading-loose{line-height:2!important}.clip-path--rhombus img{-webkit-clip-path:polygon(15% 6%,80% 29%,84% 93%,23% 69%);clip-path:polygon(15% 6%,80% 29%,84% 93%,23% 69%)}.clip-path--diamond img{-webkit-clip-path:polygon(5% 29%,60% 2%,91% 64%,36% 89%);clip-path:polygon(5% 29%,60% 2%,91% 64%,36% 89%)}.clip-path--rhombus-alt img{-webkit-clip-path:polygon(14% 9%,85% 24%,91% 89%,19% 76%);clip-path:polygon(14% 9%,85% 24%,91% 89%,19% 76%)}.wp-block-columns[class*=fullwidth-cols]{margin-bottom:unset}.wp-block-column.editor\:pointer-events-none{margin-bottom:0!important;margin-top:0!important}.is-root-container.block-editor-block-list__layout>[data-align=full]:not(:first-of-type)>.wp-block-column.editor\:pointer-events-none,.is-root-container.block-editor-block-list__layout>[data-align=wide]>.wp-block-column.editor\:pointer-events-none{margin-top:calc(var(--wp--style--block-gap, 28px)*-1)!important}.ext .wp-block-columns .wp-block-column[style*=padding]{padding-left:0!important;padding-right:0!important}.ext .wp-block-columns+.wp-block-columns:not([class*=mt-]):not([class*=my-]):not([style*=margin]){margin-top:0!important}[class*=fullwidth-cols] .wp-block-column:first-child,[class*=fullwidth-cols] .wp-block-group:first-child{margin-top:0}[class*=fullwidth-cols] .wp-block-column:last-child,[class*=fullwidth-cols] .wp-block-group:last-child{margin-bottom:0}[class*=fullwidth-cols] .wp-block-column:first-child>*,[class*=fullwidth-cols] .wp-block-column>:first-child{margin-top:0}.ext .is-not-stacked-on-mobile .wp-block-column,[class*=fullwidth-cols] .wp-block-column>:last-child{margin-bottom:0}.wp-block-columns[class*=fullwidth-cols]:not(.is-not-stacked-on-mobile)>.wp-block-column:not(:last-child){margin-bottom:var(--wp--style--block-gap,1.75rem)}@media (min-width:782px){.wp-block-columns[class*=fullwidth-cols]:not(.is-not-stacked-on-mobile)>.wp-block-column:not(:last-child){margin-bottom:0}}.wp-block-columns[class*=fullwidth-cols].is-not-stacked-on-mobile>.wp-block-column{margin-bottom:0!important}@media (min-width:600px) and (max-width:781px){.wp-block-columns[class*=fullwidth-cols]:not(.is-not-stacked-on-mobile)>.wp-block-column:nth-child(2n){margin-left:var(--wp--style--block-gap,2em)}}@media (max-width:781px){.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile){flex-wrap:wrap}.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column,.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column:not([style*=margin]){margin-left:0!important}.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (max-width:1079px){.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile){flex-wrap:wrap}.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column,.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column:not([style*=margin]){margin-left:0!important}.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column:not(:last-child){margin-bottom:var(--wp--style--block-gap,1.75rem)!important}}.direction-rtl{direction:rtl}.direction-ltr{direction:ltr}.is-style-inline-list{padding-left:0!important}.is-style-inline-list li{list-style-type:none!important}@media (min-width:782px){.is-style-inline-list li{display:inline!important;margin-right:var(--wp--style--block-gap,1.75rem)!important}}@media (min-width:782px){.is-style-inline-list li:first-child{margin-left:0!important}}@media (min-width:782px){.is-style-inline-list li:last-child{margin-right:0!important}}.bring-to-front{position:relative;z-index:10}.text-stroke{-webkit-text-stroke-color:var(--wp--preset--color--background)}.text-stroke,.text-stroke--primary{-webkit-text-stroke-width:var(
+        --wp--custom--typography--text-stroke-width,2px
+    )}.text-stroke--primary{-webkit-text-stroke-color:var(--wp--preset--color--primary)}.text-stroke--secondary{-webkit-text-stroke-width:var(
+        --wp--custom--typography--text-stroke-width,2px
+    );-webkit-text-stroke-color:var(--wp--preset--color--secondary)}.editor\:no-caption .block-editor-rich-text__editable{display:none!important}.editor\:no-inserter .wp-block-column:not(.is-selected)>.block-list-appender,.editor\:no-inserter .wp-block-cover__inner-container>.block-list-appender,.editor\:no-inserter .wp-block-group__inner-container>.block-list-appender,.editor\:no-inserter>.block-list-appender{display:none}.editor\:no-resize .components-resizable-box__handle,.editor\:no-resize .components-resizable-box__handle:after,.editor\:no-resize .components-resizable-box__side-handle:before{display:none;pointer-events:none}.editor\:no-resize .components-resizable-box__container{display:block}.editor\:pointer-events-none{pointer-events:none}.is-style-angled{justify-content:flex-end}.ext .is-style-angled>[class*=_inner-container],.is-style-angled{align-items:center}.is-style-angled .wp-block-cover__image-background,.is-style-angled .wp-block-cover__video-background{-webkit-clip-path:polygon(0 0,30% 0,50% 100%,0 100%);clip-path:polygon(0 0,30% 0,50% 100%,0 100%);z-index:1}@media (min-width:782px){.is-style-angled .wp-block-cover__image-background,.is-style-angled .wp-block-cover__video-background{-webkit-clip-path:polygon(0 0,55% 0,65% 100%,0 100%);clip-path:polygon(0 0,55% 0,65% 100%,0 100%)}}.has-foreground-color{color:var(--wp--preset--color--foreground,#000)!important}.has-foreground-background-color{background-color:var(--wp--preset--color--foreground,#000)!important}.has-background-color{color:var(--wp--preset--color--background,#fff)!important}.has-background-background-color{background-color:var(--wp--preset--color--background,#fff)!important}.has-primary-color{color:var(--wp--preset--color--primary,#4b5563)!important}.has-primary-background-color{background-color:var(--wp--preset--color--primary,#4b5563)!important}.has-secondary-color{color:var(--wp--preset--color--secondary,#9ca3af)!important}.has-secondary-background-color{background-color:var(--wp--preset--color--secondary,#9ca3af)!important}.ext.has-text-color h1,.ext.has-text-color h2,.ext.has-text-color h3,.ext.has-text-color h4,.ext.has-text-color h5,.ext.has-text-color h6,.ext.has-text-color p{color:currentColor}.has-white-color{color:var(--wp--preset--color--white,#fff)!important}.has-black-color{color:var(--wp--preset--color--black,#000)!important}.has-ext-foreground-background-color{background-color:var(
+        --wp--preset--color--foreground,var(--wp--preset--color--black,#000)
+    )!important}.has-ext-primary-background-color{background-color:var(
+        --wp--preset--color--primary,var(--wp--preset--color--cyan-bluish-gray,#000)
+    )!important}.wp-block-button__link.has-black-background-color{border-color:var(--wp--preset--color--black,#000)}.wp-block-button__link.has-white-background-color{border-color:var(--wp--preset--color--white,#fff)}.has-ext-small-font-size{font-size:var(--wp--preset--font-size--ext-small)!important}.has-ext-medium-font-size{font-size:var(--wp--preset--font-size--ext-medium)!important}.has-ext-large-font-size{font-size:var(--wp--preset--font-size--ext-large)!important;line-height:1.2}.has-ext-x-large-font-size{font-size:var(--wp--preset--font-size--ext-x-large)!important;line-height:1}.has-ext-xx-large-font-size{font-size:var(--wp--preset--font-size--ext-xx-large)!important;line-height:1}.has-ext-x-large-font-size:not([style*=line-height]),.has-ext-xx-large-font-size:not([style*=line-height]){line-height:1.1}.ext .wp-block-group>*{margin-bottom:0;margin-top:0}.ext .wp-block-group>*+*{margin-bottom:0}.ext .wp-block-group>*+*,.ext h2{margin-top:var(--wp--style--block-gap,1.75rem)}.ext h2{margin-bottom:var(--wp--style--block-gap,1.75rem)}.has-ext-x-large-font-size+h3,.has-ext-x-large-font-size+p{margin-top:.5rem}.ext .wp-block-buttons>.wp-block-button.wp-block-button__width-25{min-width:12rem;width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.ext .ext-grid>[class*=_inner-container]{display:grid}.ext>[class*=_inner-container]>.ext-grid:not([class*=columns]),.ext>[class*=_inner-container]>.wp-block>.ext-grid:not([class*=columns]){display:initial!important}.ext .ext-grid-cols-1>[class*=_inner-container]{grid-template-columns:repeat(1,minmax(0,1fr))!important}.ext .ext-grid-cols-2>[class*=_inner-container]{grid-template-columns:repeat(2,minmax(0,1fr))!important}.ext .ext-grid-cols-3>[class*=_inner-container]{grid-template-columns:repeat(3,minmax(0,1fr))!important}.ext .ext-grid-cols-4>[class*=_inner-container]{grid-template-columns:repeat(4,minmax(0,1fr))!important}.ext .ext-grid-cols-5>[class*=_inner-container]{grid-template-columns:repeat(5,minmax(0,1fr))!important}.ext .ext-grid-cols-6>[class*=_inner-container]{grid-template-columns:repeat(6,minmax(0,1fr))!important}.ext .ext-grid-cols-7>[class*=_inner-container]{grid-template-columns:repeat(7,minmax(0,1fr))!important}.ext .ext-grid-cols-8>[class*=_inner-container]{grid-template-columns:repeat(8,minmax(0,1fr))!important}.ext .ext-grid-cols-9>[class*=_inner-container]{grid-template-columns:repeat(9,minmax(0,1fr))!important}.ext .ext-grid-cols-10>[class*=_inner-container]{grid-template-columns:repeat(10,minmax(0,1fr))!important}.ext .ext-grid-cols-11>[class*=_inner-container]{grid-template-columns:repeat(11,minmax(0,1fr))!important}.ext .ext-grid-cols-12>[class*=_inner-container]{grid-template-columns:repeat(12,minmax(0,1fr))!important}.ext .ext-grid-cols-13>[class*=_inner-container]{grid-template-columns:repeat(13,minmax(0,1fr))!important}.ext .ext-grid-cols-none>[class*=_inner-container]{grid-template-columns:none!important}.ext .ext-grid-rows-1>[class*=_inner-container]{grid-template-rows:repeat(1,minmax(0,1fr))!important}.ext .ext-grid-rows-2>[class*=_inner-container]{grid-template-rows:repeat(2,minmax(0,1fr))!important}.ext .ext-grid-rows-3>[class*=_inner-container]{grid-template-rows:repeat(3,minmax(0,1fr))!important}.ext .ext-grid-rows-4>[class*=_inner-container]{grid-template-rows:repeat(4,minmax(0,1fr))!important}.ext .ext-grid-rows-5>[class*=_inner-container]{grid-template-rows:repeat(5,minmax(0,1fr))!important}.ext .ext-grid-rows-6>[class*=_inner-container]{grid-template-rows:repeat(6,minmax(0,1fr))!important}.ext .ext-grid-rows-none>[class*=_inner-container]{grid-template-rows:none!important}.ext .ext-items-start>[class*=_inner-container]{align-items:flex-start!important}.ext .ext-items-end>[class*=_inner-container]{align-items:flex-end!important}.ext .ext-items-center>[class*=_inner-container]{align-items:center!important}.ext .ext-items-baseline>[class*=_inner-container]{align-items:baseline!important}.ext .ext-items-stretch>[class*=_inner-container]{align-items:stretch!important}.ext.wp-block-group>:last-child{margin-bottom:0}.ext .wp-block-group__inner-container{padding:0!important}.ext.has-background{padding-left:var(--wp--style--block-gap,1.75rem);padding-right:var(--wp--style--block-gap,1.75rem)}.ext [class*=inner-container]>.alignwide [class*=inner-container],.ext [class*=inner-container]>[data-align=wide] [class*=inner-container]{max-width:var(--responsive--alignwide-width,120rem)}.ext [class*=inner-container]>.alignwide [class*=inner-container]>*,.ext [class*=inner-container]>[data-align=wide] [class*=inner-container]>*{max-width:100%!important}.ext .wp-block-image{position:relative;text-align:center}.ext .wp-block-image img{display:inline-block;vertical-align:middle}body{--extendify--spacing--large:var(
+        --wp--custom--spacing--large,clamp(2em,8vw,8em)
+    );--wp--preset--font-size--ext-small:1rem;--wp--preset--font-size--ext-medium:1.125rem;--wp--preset--font-size--ext-large:clamp(1.65rem,3.5vw,2.15rem);--wp--preset--font-size--ext-x-large:clamp(3rem,6vw,4.75rem);--wp--preset--font-size--ext-xx-large:clamp(3.25rem,7.5vw,5.75rem);--wp--preset--color--black:#000;--wp--preset--color--white:#fff}.ext *{box-sizing:border-box}.block-editor-block-preview__content-iframe .ext [data-type="core/spacer"] .components-resizable-box__container{background:transparent!important}.block-editor-block-preview__content-iframe .ext [data-type="core/spacer"] .block-library-spacer__resize-container:before{display:none!important}.ext .wp-block-group__inner-container figure.wp-block-gallery.alignfull{margin-bottom:unset;margin-top:unset}.ext .alignwide{margin-left:auto!important;margin-right:auto!important}.is-root-container.block-editor-block-list__layout>[data-align=full]:not(:first-of-type)>.ext-my-0,.is-root-container.block-editor-block-list__layout>[data-align=wide]>.ext-my-0:not([style*=margin]){margin-top:calc(var(--wp--style--block-gap, 28px)*-1)!important}.block-editor-block-preview__content-iframe .preview\:min-h-50{min-height:50vw!important}.block-editor-block-preview__content-iframe .preview\:min-h-60{min-height:60vw!important}.block-editor-block-preview__content-iframe .preview\:min-h-70{min-height:70vw!important}.block-editor-block-preview__content-iframe .preview\:min-h-80{min-height:80vw!important}.block-editor-block-preview__content-iframe .preview\:min-h-100{min-height:100vw!important}.ext-mr-0.alignfull:not([style*=margin]):not([style*=margin]){margin-right:0!important}.ext-ml-0:not([style*=margin]):not([style*=margin]){margin-left:0!important}.is-root-container .wp-block[data-align=full]>.ext-mx-0:not([style*=margin]):not([style*=margin]){margin-left:calc(var(--wp--custom--spacing--outer, 0)*1)!important;margin-right:calc(var(--wp--custom--spacing--outer, 0)*1)!important;overflow:hidden;width:unset}@media (min-width:782px){.tablet\:ext-absolute{position:absolute!important}.tablet\:ext-relative{position:relative!important}.tablet\:ext-top-base{top:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-top-lg{top:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--top-base{top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--top-lg{top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-right-base{right:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-right-lg{right:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--right-base{right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--right-lg{right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-bottom-base{bottom:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-bottom-lg{bottom:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--bottom-base{bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--bottom-lg{bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-left-base{left:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-left-lg{left:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--left-base{left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--left-lg{left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-order-1{order:1!important}.tablet\:ext-order-2{order:2!important}.tablet\:ext-m-0:not([style*=margin]){margin:0!important}.tablet\:ext-m-auto:not([style*=margin]){margin:auto!important}.tablet\:ext-m-base:not([style*=margin]){margin:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-m-lg:not([style*=margin]){margin:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--m-base:not([style*=margin]){margin:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--m-lg:not([style*=margin]){margin:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-mx-0:not([style*=margin]){margin-left:0!important;margin-right:0!important}.tablet\:ext-mx-auto:not([style*=margin]){margin-left:auto!important;margin-right:auto!important}.tablet\:ext-mx-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important;margin-right:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-mx-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important;margin-right:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--mx-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--mx-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-my-0:not([style*=margin]){margin-bottom:0!important;margin-top:0!important}.tablet\:ext-my-auto:not([style*=margin]){margin-bottom:auto!important;margin-top:auto!important}.tablet\:ext-my-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important;margin-top:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-my-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important;margin-top:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--my-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--my-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-mt-0:not([style*=margin]){margin-top:0!important}.tablet\:ext-mt-auto:not([style*=margin]){margin-top:auto!important}.tablet\:ext-mt-base:not([style*=margin]){margin-top:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-mt-lg:not([style*=margin]){margin-top:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--mt-base:not([style*=margin]){margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--mt-lg:not([style*=margin]){margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-mr-0:not([style*=margin]){margin-right:0!important}.tablet\:ext-mr-auto:not([style*=margin]){margin-right:auto!important}.tablet\:ext-mr-base:not([style*=margin]){margin-right:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-mr-lg:not([style*=margin]){margin-right:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--mr-base:not([style*=margin]){margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--mr-lg:not([style*=margin]){margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-mb-0:not([style*=margin]){margin-bottom:0!important}.tablet\:ext-mb-auto:not([style*=margin]){margin-bottom:auto!important}.tablet\:ext-mb-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-mb-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--mb-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--mb-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-ml-0:not([style*=margin]){margin-left:0!important}.tablet\:ext-ml-auto:not([style*=margin]){margin-left:auto!important}.tablet\:ext-ml-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-ml-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--ml-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--ml-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-block{display:block!important}.tablet\:ext-inline-block{display:inline-block!important}.tablet\:ext-inline{display:inline!important}.tablet\:ext-flex{display:flex!important}.tablet\:ext-inline-flex{display:inline-flex!important}.tablet\:ext-grid{display:grid!important}.tablet\:ext-inline-grid{display:inline-grid!important}.tablet\:ext-hidden{display:none!important}.tablet\:ext-w-auto{width:auto!important}.tablet\:ext-w-full{width:100%!important}.tablet\:ext-max-w-full{max-width:100%!important}.tablet\:ext-flex-1{flex:1 1 0%!important}.tablet\:ext-flex-auto{flex:1 1 auto!important}.tablet\:ext-flex-initial{flex:0 1 auto!important}.tablet\:ext-flex-none{flex:none!important}.tablet\:ext-flex-shrink-0{flex-shrink:0!important}.tablet\:ext-flex-shrink{flex-shrink:1!important}.tablet\:ext-flex-grow-0{flex-grow:0!important}.tablet\:ext-flex-grow{flex-grow:1!important}.tablet\:ext-list-none{list-style-type:none!important}.tablet\:ext-grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))!important}.tablet\:ext-grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))!important}.tablet\:ext-grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))!important}.tablet\:ext-grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))!important}.tablet\:ext-grid-cols-5{grid-template-columns:repeat(5,minmax(0,1fr))!important}.tablet\:ext-grid-cols-6{grid-template-columns:repeat(6,minmax(0,1fr))!important}.tablet\:ext-grid-cols-7{grid-template-columns:repeat(7,minmax(0,1fr))!important}.tablet\:ext-grid-cols-8{grid-template-columns:repeat(8,minmax(0,1fr))!important}.tablet\:ext-grid-cols-9{grid-template-columns:repeat(9,minmax(0,1fr))!important}.tablet\:ext-grid-cols-10{grid-template-columns:repeat(10,minmax(0,1fr))!important}.tablet\:ext-grid-cols-11{grid-template-columns:repeat(11,minmax(0,1fr))!important}.tablet\:ext-grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))!important}.tablet\:ext-grid-cols-none{grid-template-columns:none!important}.tablet\:ext-flex-row{flex-direction:row!important}.tablet\:ext-flex-row-reverse{flex-direction:row-reverse!important}.tablet\:ext-flex-col{flex-direction:column!important}.tablet\:ext-flex-col-reverse{flex-direction:column-reverse!important}.tablet\:ext-flex-wrap{flex-wrap:wrap!important}.tablet\:ext-flex-wrap-reverse{flex-wrap:wrap-reverse!important}.tablet\:ext-flex-nowrap{flex-wrap:nowrap!important}.tablet\:ext-items-start{align-items:flex-start!important}.tablet\:ext-items-end{align-items:flex-end!important}.tablet\:ext-items-center{align-items:center!important}.tablet\:ext-items-baseline{align-items:baseline!important}.tablet\:ext-items-stretch{align-items:stretch!important}.tablet\:ext-justify-start{justify-content:flex-start!important}.tablet\:ext-justify-end{justify-content:flex-end!important}.tablet\:ext-justify-center{justify-content:center!important}.tablet\:ext-justify-between{justify-content:space-between!important}.tablet\:ext-justify-around{justify-content:space-around!important}.tablet\:ext-justify-evenly{justify-content:space-evenly!important}.tablet\:ext-justify-items-start{justify-items:start!important}.tablet\:ext-justify-items-end{justify-items:end!important}.tablet\:ext-justify-items-center{justify-items:center!important}.tablet\:ext-justify-items-stretch{justify-items:stretch!important}.tablet\:ext-justify-self-auto{justify-self:auto!important}.tablet\:ext-justify-self-start{justify-self:start!important}.tablet\:ext-justify-self-end{justify-self:end!important}.tablet\:ext-justify-self-center{justify-self:center!important}.tablet\:ext-justify-self-stretch{justify-self:stretch!important}.tablet\:ext-p-0:not([style*=padding]){padding:0!important}.tablet\:ext-p-base:not([style*=padding]){padding:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-p-lg:not([style*=padding]){padding:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-px-0:not([style*=padding]){padding-left:0!important;padding-right:0!important}.tablet\:ext-px-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important;padding-right:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-px-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important;padding-right:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-py-0:not([style*=padding]){padding-bottom:0!important;padding-top:0!important}.tablet\:ext-py-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important;padding-top:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-py-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important;padding-top:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-pt-0:not([style*=padding]){padding-top:0!important}.tablet\:ext-pt-base:not([style*=padding]){padding-top:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-pt-lg:not([style*=padding]){padding-top:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-pr-0:not([style*=padding]){padding-right:0!important}.tablet\:ext-pr-base:not([style*=padding]){padding-right:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-pr-lg:not([style*=padding]){padding-right:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-pb-0:not([style*=padding]){padding-bottom:0!important}.tablet\:ext-pb-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-pb-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-pl-0:not([style*=padding]){padding-left:0!important}.tablet\:ext-pl-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-pl-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-text-left{text-align:left!important}.tablet\:ext-text-center{text-align:center!important}.tablet\:ext-text-right{text-align:right!important}}@media (min-width:1080px){.desktop\:ext-absolute{position:absolute!important}.desktop\:ext-relative{position:relative!important}.desktop\:ext-top-base{top:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-top-lg{top:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--top-base{top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--top-lg{top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-right-base{right:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-right-lg{right:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--right-base{right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--right-lg{right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-bottom-base{bottom:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-bottom-lg{bottom:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--bottom-base{bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--bottom-lg{bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-left-base{left:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-left-lg{left:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--left-base{left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--left-lg{left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-order-1{order:1!important}.desktop\:ext-order-2{order:2!important}.desktop\:ext-m-0:not([style*=margin]){margin:0!important}.desktop\:ext-m-auto:not([style*=margin]){margin:auto!important}.desktop\:ext-m-base:not([style*=margin]){margin:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-m-lg:not([style*=margin]){margin:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--m-base:not([style*=margin]){margin:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--m-lg:not([style*=margin]){margin:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-mx-0:not([style*=margin]){margin-left:0!important;margin-right:0!important}.desktop\:ext-mx-auto:not([style*=margin]){margin-left:auto!important;margin-right:auto!important}.desktop\:ext-mx-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important;margin-right:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-mx-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important;margin-right:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--mx-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--mx-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-my-0:not([style*=margin]){margin-bottom:0!important;margin-top:0!important}.desktop\:ext-my-auto:not([style*=margin]){margin-bottom:auto!important;margin-top:auto!important}.desktop\:ext-my-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important;margin-top:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-my-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important;margin-top:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--my-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--my-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-mt-0:not([style*=margin]){margin-top:0!important}.desktop\:ext-mt-auto:not([style*=margin]){margin-top:auto!important}.desktop\:ext-mt-base:not([style*=margin]){margin-top:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-mt-lg:not([style*=margin]){margin-top:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--mt-base:not([style*=margin]){margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--mt-lg:not([style*=margin]){margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-mr-0:not([style*=margin]){margin-right:0!important}.desktop\:ext-mr-auto:not([style*=margin]){margin-right:auto!important}.desktop\:ext-mr-base:not([style*=margin]){margin-right:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-mr-lg:not([style*=margin]){margin-right:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--mr-base:not([style*=margin]){margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--mr-lg:not([style*=margin]){margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-mb-0:not([style*=margin]){margin-bottom:0!important}.desktop\:ext-mb-auto:not([style*=margin]){margin-bottom:auto!important}.desktop\:ext-mb-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-mb-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--mb-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--mb-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-ml-0:not([style*=margin]){margin-left:0!important}.desktop\:ext-ml-auto:not([style*=margin]){margin-left:auto!important}.desktop\:ext-ml-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-ml-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--ml-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--ml-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-block{display:block!important}.desktop\:ext-inline-block{display:inline-block!important}.desktop\:ext-inline{display:inline!important}.desktop\:ext-flex{display:flex!important}.desktop\:ext-inline-flex{display:inline-flex!important}.desktop\:ext-grid{display:grid!important}.desktop\:ext-inline-grid{display:inline-grid!important}.desktop\:ext-hidden{display:none!important}.desktop\:ext-w-auto{width:auto!important}.desktop\:ext-w-full{width:100%!important}.desktop\:ext-max-w-full{max-width:100%!important}.desktop\:ext-flex-1{flex:1 1 0%!important}.desktop\:ext-flex-auto{flex:1 1 auto!important}.desktop\:ext-flex-initial{flex:0 1 auto!important}.desktop\:ext-flex-none{flex:none!important}.desktop\:ext-flex-shrink-0{flex-shrink:0!important}.desktop\:ext-flex-shrink{flex-shrink:1!important}.desktop\:ext-flex-grow-0{flex-grow:0!important}.desktop\:ext-flex-grow{flex-grow:1!important}.desktop\:ext-list-none{list-style-type:none!important}.desktop\:ext-grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))!important}.desktop\:ext-grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))!important}.desktop\:ext-grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))!important}.desktop\:ext-grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))!important}.desktop\:ext-grid-cols-5{grid-template-columns:repeat(5,minmax(0,1fr))!important}.desktop\:ext-grid-cols-6{grid-template-columns:repeat(6,minmax(0,1fr))!important}.desktop\:ext-grid-cols-7{grid-template-columns:repeat(7,minmax(0,1fr))!important}.desktop\:ext-grid-cols-8{grid-template-columns:repeat(8,minmax(0,1fr))!important}.desktop\:ext-grid-cols-9{grid-template-columns:repeat(9,minmax(0,1fr))!important}.desktop\:ext-grid-cols-10{grid-template-columns:repeat(10,minmax(0,1fr))!important}.desktop\:ext-grid-cols-11{grid-template-columns:repeat(11,minmax(0,1fr))!important}.desktop\:ext-grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))!important}.desktop\:ext-grid-cols-none{grid-template-columns:none!important}.desktop\:ext-flex-row{flex-direction:row!important}.desktop\:ext-flex-row-reverse{flex-direction:row-reverse!important}.desktop\:ext-flex-col{flex-direction:column!important}.desktop\:ext-flex-col-reverse{flex-direction:column-reverse!important}.desktop\:ext-flex-wrap{flex-wrap:wrap!important}.desktop\:ext-flex-wrap-reverse{flex-wrap:wrap-reverse!important}.desktop\:ext-flex-nowrap{flex-wrap:nowrap!important}.desktop\:ext-items-start{align-items:flex-start!important}.desktop\:ext-items-end{align-items:flex-end!important}.desktop\:ext-items-center{align-items:center!important}.desktop\:ext-items-baseline{align-items:baseline!important}.desktop\:ext-items-stretch{align-items:stretch!important}.desktop\:ext-justify-start{justify-content:flex-start!important}.desktop\:ext-justify-end{justify-content:flex-end!important}.desktop\:ext-justify-center{justify-content:center!important}.desktop\:ext-justify-between{justify-content:space-between!important}.desktop\:ext-justify-around{justify-content:space-around!important}.desktop\:ext-justify-evenly{justify-content:space-evenly!important}.desktop\:ext-justify-items-start{justify-items:start!important}.desktop\:ext-justify-items-end{justify-items:end!important}.desktop\:ext-justify-items-center{justify-items:center!important}.desktop\:ext-justify-items-stretch{justify-items:stretch!important}.desktop\:ext-justify-self-auto{justify-self:auto!important}.desktop\:ext-justify-self-start{justify-self:start!important}.desktop\:ext-justify-self-end{justify-self:end!important}.desktop\:ext-justify-self-center{justify-self:center!important}.desktop\:ext-justify-self-stretch{justify-self:stretch!important}.desktop\:ext-p-0:not([style*=padding]){padding:0!important}.desktop\:ext-p-base:not([style*=padding]){padding:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-p-lg:not([style*=padding]){padding:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-px-0:not([style*=padding]){padding-left:0!important;padding-right:0!important}.desktop\:ext-px-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important;padding-right:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-px-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important;padding-right:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-py-0:not([style*=padding]){padding-bottom:0!important;padding-top:0!important}.desktop\:ext-py-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important;padding-top:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-py-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important;padding-top:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-pt-0:not([style*=padding]){padding-top:0!important}.desktop\:ext-pt-base:not([style*=padding]){padding-top:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-pt-lg:not([style*=padding]){padding-top:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-pr-0:not([style*=padding]){padding-right:0!important}.desktop\:ext-pr-base:not([style*=padding]){padding-right:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-pr-lg:not([style*=padding]){padding-right:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-pb-0:not([style*=padding]){padding-bottom:0!important}.desktop\:ext-pb-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-pb-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-pl-0:not([style*=padding]){padding-left:0!important}.desktop\:ext-pl-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-pl-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-text-left{text-align:left!important}.desktop\:ext-text-center{text-align:center!important}.desktop\:ext-text-right{text-align:right!important}}
+
+</style>
+<link data-optimized="1" rel='stylesheet' id='contact-form-7-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/ed9f7c703958e7dbb975f51a787dffb0.css?ver=1cb76' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/fa5d7aae3357c38f33ed18d4704c45a3.css?ver=36068' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link data-optimized="1" rel='stylesheet' id='wordpress-country-selector-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/a8d6f7637219e0051e403e157e8ba379.css?ver=2c0b1' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wordpress-country-selector-bootstrap-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/62383603e248c3dfd030243648f1d469.css?ver=9d391' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wordpress-country-selector-mapglyphs-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/f2729bc66e82c38a3061a8c629f977f7.css?ver=40214' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wordpress-country-selector-flag-icon-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/18249bb05ce3ae9c24732bc8daeef6a3.css?ver=4c482' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wordpress-country-selector-custom-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/2cabd606865ffc978ba0abe08de8f393.css?ver=561dc' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmm-frontend-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/d14c9ac8f846935981f451a80f816dbe.css?ver=94431' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmm-responsive-stylesheet-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/f311634bec0285f5d99fc7155540c3c4.css?ver=597a3' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmm-default-responsive-stylesheet-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/231248431b7e794ea63adb7d40765b46.css?ver=1905a' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmm-animate-css-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/e9f4ed294cb8ccd83954f5da2c1daa59.css?ver=47fc2' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmm-colorbox-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/10b6023fff6cdbcfafd1097ace884f22.css?ver=8f0cb' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmm-frontwalker-stylesheet-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/03a673ec6db1121d2532da581a511e32.css?ver=5896d' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmm-google-fonts-style-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700&#038;ver=5.8.4' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmm-bxslider-style-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/e97c7ed62fad8ee56186d7606a3ef79c.css?ver=2a54d' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmegamenu-fontawesomes-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/b505e6c5c7a83a4438e6207b0e1eb0eb.css?ver=7023f' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmegamenu-flaticons-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/cf2479745db6d3e4e6c7a23e1b8405fe.css?ver=c30d6' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmegamenu-icomoon-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/1d87246e8977bda4e367fdf6da286d40.css?ver=667e8' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmegamenu-linecon-css-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/83d1985906650202396f394033e7b8a0.css?ver=81e9b' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpmegamenu-genericons-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/a61881700561bb51236dbda4d95356ee.css?ver=f3965' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='dashicons-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/2e100b93ebf572d8526e4384910acca7.css?ver=20d20' type='text/css' media='all' />
+<link data-optimized="1" rel='stylesheet' id='roots_css-css'  href='https://www.hostingplus.com.co/wp-content/litespeed/css/10855719b12392be3591fcdd15c2e0b5.css?ver=2e0b5' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.hostingplus.com.co/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.7.0' id='monsterinsights-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.hostingplus.com.co","hash_tracking":"false","ua":"UA-518762-1","v4_id":""};/* ]]> */
+</script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js' id='jquery-js'></script>
+<script>window.jQuery || document.write('<script src="https://www.hostingplus.com.co/wp-content/themes/hosting-plus/assets/vendor/jquery/dist/jquery.min.js?1.11.1"><\/script>')</script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/12bfc23c31cf009f1020129ff4d3021c.js?ver=aa9f4' id='tp-tools-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/889264fb2fa90e1d204c83657d68ede8.js?ver=f6942' id='revmin-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/0c229243194b19a1a5d66ca3bd703519.js?ver=17f14' id='wpmm-jquery-bxslider-min-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/adbeeafdca3d3193bfbff81e9e8a90f4.js?ver=99c2b' id='wp_megamenu_actual_scripts-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/0cf93ed217f0e6257d76967496910f73.js?ver=1447d' id='wp_megamenu_colorbox-js'></script>
+<script type='text/javascript' id='wp_megamenu-frontend_scripts-js-extra'>
+/* <![CDATA[ */
+var wp_megamenu_params = {"wpmm_mobile_toggle_option":"toggle_standard","wpmm_enable_rtl":"0","wpmm_event_behavior":"click_submenu","wpmm_ajaxurl":"https:\/\/www.hostingplus.com.co\/wp-admin\/admin-ajax.php","wpmm_ajax_nonce":"011560adc0","check_woocommerce_enabled":"false","wpmm_mlabel_animation_type":"none","wpmm_animation_delay":"1","wpmm_animation_duration":"","wpmm_animation_iteration_count":"1","enable_mobile":"1","wpmm_sticky_opacity":"0","wpmm_sticky_offset":"0px","wpmm_sticky_zindex":"9999"};
+/* ]]> */
+</script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/e08400eaa68ddd38c9157deeefb61967.js?ver=43ed1' id='wp_megamenu-frontend_scripts-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/150cfcac8b87412036be5ff1a308c5a3.js?ver=3a27c' id='wp_megamenu_validate_scripts-js'></script>
+<script type='text/javascript' id='wpmm_ajax-auth-script-js-extra'>
+/* <![CDATA[ */
+var wp_megamenu_ajax_auth_object = {"ajaxurl":"https:\/\/www.hostingplus.com.co\/wp-admin\/admin-ajax.php","redirecturl":"https:\/\/www.hostingplus.com.co","loadingmessage":"Sending user info, please wait..."};
+/* ]]> */
+</script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/97f0d374341b3c753940a301f9912c43.js?ver=3b687' id='wpmm_ajax-auth-script-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/05054f8c44c1cefdf0eb511236a43576.js?ver=43576' id='modernizr-js'></script>
+<link rel="https://api.w.org/" href="https://www.hostingplus.com.co/wp-json/" /><link rel="alternate" type="application/json" href="https://www.hostingplus.com.co/wp-json/wp/v2/posts/2342" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.hostingplus.com.co/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.hostingplus.com.co/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.4" />
+<link rel='shortlink' href='https://www.hostingplus.com.co/?p=2342' />
+<link rel="alternate" type="application/json+oembed" href="https://www.hostingplus.com.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hostingplus.com.co%2Fblog%2Farchivo-index-html-para-que-sirve-y-como-se-crea%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.hostingplus.com.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hostingplus.com.co%2Fblog%2Farchivo-index-html-para-que-sirve-y-como-se-crea%2F&#038;format=xml" />
+<meta name="generator" content="Redux 4.3.13" /><!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+.nav-fe.fis.fixe{z-index:1079!important;}</style>
+<!-- end Simple Custom CSS and JS -->
+<style type='text/css'>         .wp-megamenu-main-wrapper .wpmm-mega-menu-icon{
+            font-size: 13px;
+          }
+        .wp-megamenu-main-wrapper.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li.current-menu-item > a{
+	color: #f07118!important;
+}
+.links_with_icons > li > a{
+  display: block;
+    font-weight: 600;
+    color: #282828;
+    font-size: 14px;
+    line-height: 1.2;
+    margin-bottom: 1px;
+}
+</style><style type='text/css'></style><link data-optimized="1" rel="stylesheet" href="https://www.hostingplus.com.co/wp-content/litespeed/css/ae25dd3113a3b40b844a0f4213665b71.css?ver=65b71" type="text/css" /><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><meta name="generator" content="Powered by Slider Revolution 5.3.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://www.hostingplus.com.co/wp-content/uploads/2020/09/HOSTINGPLUS.png" sizes="32x32" />
+<link rel="icon" href="https://www.hostingplus.com.co/wp-content/uploads/2020/09/HOSTINGPLUS.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.hostingplus.com.co/wp-content/uploads/2020/09/HOSTINGPLUS.png" />
+<meta name="msapplication-TileImage" content="https://www.hostingplus.com.co/wp-content/uploads/2020/09/HOSTINGPLUS.png" />
+  <link rel="alternate" href="https://www.hostingplus.pe/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" hreflang="es-pe" />
+  <link rel="alternate" href="https://www.hostingplus.cl/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" hreflang="es-cl" />
+  <link rel="alternate" href="https://hostingplus.ar/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" hreflang="es-ar" />
+  <link rel="alternate" href="https://www.hostingplus.com.co/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" hreflang="es-co" />
+  <link rel="alternate" href="https://www.hostingplus.mx/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" hreflang="es-mx" />
+  <link rel="alternate" href="https://www.hostingplus.com.es/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" hreflang="es-es" />
+  <link rel="alternate" href="https://www.hostingplus.lat/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" hreflang="es-us" />
+  <link rel="alternate" hreflang="x-default" href="https://www.hostingplus.pe/blog/archivo-index-html-para-que-sirve-y-como-se-crea/"/>
+
+
+  
+  <link rel="alternate" type="application/rss+xml" title="Hosting Plus Feed" href="https://www.hostingplus.com.co/feed/">
+  <link data-optimized="1" rel="stylesheet" type="text/css" href="https://www.hostingplus.com.co/wp-content/litespeed/css/47b487dfbf95464926c4c6a34e757ce9.css?ver=57ce9">
+  
+  
+<!-- Global site tag (gtag.js) - Google AdWords: 919052417 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-919052417"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-919052417');
+</script>
+
+
+</head>
+<body class="post-template-default single single-post postid-2342 single-format-standard">
+
+  <!--[if lt IE 8]>
+    <div class="alert alert-warning">
+      You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.    </div>
+  <![endif]-->
+  <div class="site">
+    <header>
+  <div class="h_top">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6 col-xs-12">
+          <ul>
+            <li class="mesa-central"><div class="country_selector_dropdown">
+                                <a href="#" class="country_selector_dropbtn"><span class="flag-icon flag-icon-co"></span>&nbsp;</a>
+                                <div class="country_selector_dropdown-content"><a href="https://hostingplus.ar/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" data-country-code="AR">
+                                              <span class="flag-icon flag-icon-ar"></span> Argentina</a><a href="https://www.hostingplus.cl/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" data-country-code="CL">
+                                              <span class="flag-icon flag-icon-cl"></span> Chile</a><a href="https://www.hostingplus.com.co/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" data-country-code="CO">
+                                              <span class="flag-icon flag-icon-co"></span> Colombia</a><a href="https://www.hostingplus.mx/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" data-country-code="MX">
+                                              <span class="flag-icon flag-icon-mx"></span> Mexico</a><a href="https://www.hostingplus.pe/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" data-country-code="PE">
+                                              <span class="flag-icon flag-icon-pe"></span> Peru</a><a href="https://www.hostingplus.lat/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" data-country-code="US">
+                                              <span class="flag-icon flag-icon-us"></span> USA</a><a href="https://www.hostingplus.com.es/blog/archivo-index-html-para-que-sirve-y-como-se-crea/" data-country-code="ES">
+                                              <span class="flag-icon flag-icon-es"></span> España</a></div>
+                            </div> </li>
+          </ul>
+        </div>
+        <div class="col-sm-6 col-xs-6">
+          <ul class="pull-right">
+                                    <li class="soporte"><a href="https://vm.providesupport.com/07wxi844xx7k21eedwajf25ib3">Ventas en Linea</a></li>
+                                    <li class="clientes"><a href="https://clientes.hostingplus.com.co/clientarea.php">Área de Clientes</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="h_center">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3 col-xs-6">
+          <div class="logo">
+            <a href="https://www.hostingplus.com.co" title="Inicio"><img src="https://www.hostingplus.com.co/wp-content/themes/hosting-plus/assets/img/logo.svg" class="img-responsive" alt="Hosting Plus" style="    max-width: 80%;"></a>
+          </div>
+        </div>
+        <div class="col-sm-9 col-xs-6">
+          <div class="menu-principal hidden-xs hidden-sm">
+            
+<link rel='stylesheet' id='edn-google-fonts-style-css' href='//fonts.googleapis.com/css?family=Open+Sans' type='text/css' media='all' /> 
+<link rel='stylesheet' id='edn-google-fonts-style-css' href='//fonts.googleapis.com/css?family=Open+Sans' type='text/css' media='all' /> 
+<link rel='stylesheet' id='edn-google-fonts-style-css' href='//fonts.googleapis.com/css?family=Open+Sans' type='text/css' media='all' /> 
+<link rel='stylesheet' id='edn-google-fonts-style-css' href='//fonts.googleapis.com/css?family=Open+Sans' type='text/css' media='all' /> 
+<link rel='stylesheet' id='edn-google-fonts-style-css' href='//fonts.googleapis.com/css?family=Open+Sans' type='text/css' media='all' /> 
+<style>
+/*#wpmm-wrap-primary{
+	display: none;
+}*/
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal,
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-vertical{
+background: #ffffff;
+
+}
+/* a tag small line on before tag */
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-sub-menu-wrap ul li h4.wpmm-mega-block-title::before, 
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-sub-menu-wrap ul li.wp-mega-menu-header > a.wp-mega-menu-link::before {
+	background:  #ffffff;
+}
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal,
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-vertical{
+border-radius: 0px 0px 0px 0px;
+border: 1px solid #ffffff;
+margin-top: 0px;
+margin-bottom: 0px;
+
+}
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal ul.wpmm-mega-wrapper{
+text-align: right;	
+}
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal{
+	width: 100%;
+}
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li > a, 
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-vertical ul.wpmm-mega-wrapper > li > a{
+color: #005298;
+}
+
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li > a,
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-vertical ul.wpmm-mega-wrapper > li > a{
+font-size: 14px; font-family: Open Sans;font-weight: theme_default;line-height: 1;text-transform: uppercase;text-decoration: none;}
+
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li > a{
+padding: 10px 20px 10px 20px;
+}
+
+	.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li:hover,
+	.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-vertical ul.wpmm-mega-wrapper > li:hover{
+	background: #ffffff;
+}
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper > li:hover > a{
+	font-weight: theme_default;
+	text-decoration: none;
+	 color: #f07118 
+}
+
+/*menu divider enable*/
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li > a::before,
+ .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li > a::before{
+  background: #ffffff;
+    opacity: 0.5;
+      content: "";
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 1px;	
+ }
+
+/*.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li > a:before{
+    background: #ffffff;
+    opacity: 0.5;
+}*/
+
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-mega-wrapper > li.current-menu-item > a{
+	color: #f07118 !important;
+}
+
+/*Mega menu */
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap,
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-vertical ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap{
+background: #ffffff;
+}
+
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap,
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-vertical ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap{
+ width: 100%;
+ padding-top:15px;
+ padding-bottom:15px;
+ padding-left:15px;
+ padding-right: 15px;
+ border: 1px solid #ffffff;  border-radius: 0px;
+ box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+/*Widget section*/
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-sub-menu-wrap ul li h4.wpmm-mega-block-title, 
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-sub-menu-wrap ul li.wp-mega-menu-header > a.wp-mega-menu-link span.wpmm-mega-menu-href-title{
+color: #005298;
+font-size: 14px;
+font-weight: bold;
+text-transform: uppercase;
+font-family: Open Sans;
+text-decoration: none;
+margin-bottom:10px;
+margin-top:0px; 
+}
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-sub-menu-wrap ul li h4.wpmm-mega-block-title:hover, 
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-sub-menu-wrap ul li.wp-mega-menu-header > a.wp-mega-menu-link span.wpmm-mega-menu-href-title:hover{
+color: #005298;
+font-weight: bold;
+text-decoration: none;
+cursor: pointer;
+
+}
+
+.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-sub-menu-wrap ul li {
+   color: #000000;
+   /*font-size: ;*/
+   font-family: Open Sans;
+}
+
+.wpmm-ctheme-wrapper.wpmega-default-theme .wp-mega-sub-menu li .wpmm-sub-menu-wrapper.wpmm_menu_1 li::before, 
+.wpmm-ctheme-wrapper.wpmega-default-theme .wp-mega-sub-menu .widget_pages li::before, 
+.wpmm-ctheme-wrapper.wpmega-default-theme .wp-mega-sub-menu .widget_categories li::before,
+ .wpmm-ctheme-wrapper.wpmega-default-theme .wp-mega-sub-menu .widget_archive li::before, 
+ .wpmm-ctheme-wrapper.wpmega-default-theme .wp-mega-sub-menu .widget_meta li::before, 
+ .wpmm-ctheme-wrapper.wpmega-default-theme .wp-mega-sub-menu .widget_recent_comments li::before, 
+ .wpmm-ctheme-wrapper.wpmega-default-theme .wp-mega-sub-menu .widget_recent_entries li::before,
+ .wpmm-ctheme-wrapper.wpmega-default-theme .wp-mega-sub-menu .widget_product_categories ul.product-categories li a::before, 
+ .wpmm-ctheme-wrapper.wpmega-default-theme .wp-mega-sub-menu .widget_categories li::before, 
+.wpmm-ctheme-wrapper.wpmega-default-theme .wp-mega-sub-menu .widget_archive li::before{
+	color: #000000;
+}
+.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul ul li a:hover,
+ .wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul ul li a,
+  .wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul ul li a:focus{
+
+color: #000000;
+  }
+
+/*
+* Top Section Stylesheet
+*/
+.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap span.wpmm_megamenu_topcontent{
+	font-size :12px;
+	color:#000000;
+	font-family: Open Sans;
+	font-weight: normal;
+	text-transform: normal;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap .top_clearfix{
+	margin-bottom: 10px;
+	
+}
+
+.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap .wpmm-topimage{
+    margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+
+.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap .wpmm-ctop{
+    margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+
+/*
+* Bottom Section stylhesheet
+*/
+.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap span.wpmm_megamenu_bottomcontent{
+	font-size :13px;
+	color:#000000;
+	font-family: Open Sans;
+	font-weight: normal;
+	text-transform: normal;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap .bottom_clearfix{
+    margin-top: 10px;
+}
+
+
+.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap .wpmm-bottomimage{
+    margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.wpmm_megamenu .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap .wpmm-cbottom{
+       margin-left: 0px;
+       margin-right: 0px;
+	   margin-bottom: 0px;
+}
+
+
+/*flyout*/
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li.wpmega-menu-flyout ul{
+	background: #5ec073;
+}
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li.wpmega-menu-flyout ul{
+	width: 210px;
+}
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li.wpmega-menu-flyout ul.wp-mega-sub-menu li:hover > a {
+	background: #47a35b;
+}
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li.wpmega-menu-flyout.wpmega-flyout-horizontal-left ul.wp-mega-sub-menu li{
+	margin: 0px 5px;
+}
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li.wpmega-menu-flyout.wpmega-flyout-horizontal-left ul.wp-mega-sub-menu li a.wp-mega-menu-link {
+	padding:10px;
+}
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li.wpmega-menu-flyout ul.wp-mega-sub-menu li a {
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: normal;
+	text-transform: normal;
+	font-family: Open Sans;
+	text-decoration: none;
+}
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li.wpmega-menu-flyout ul.wp-mega-sub-menu li:hover a {
+	color: #ffffff;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+/* search bar */
+ .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li.wpmm-menu-align-right.wpmm-search-type .wpmm-sub-menu-wrap
+ .megamenu-type-search input.search-submit[type="submit"]{
+ font-size: 10px;
+ color: #fffff;
+ background: #5ec073;
+ }
+
+  .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper 
+  li.wpmm-menu-align-right.wpmm-search-type .wpmm-sub-menu-wrap .megamenu-type-search input.search-field[type="search"]{
+width: 182px;
+color: #ccc;
+ }
+
+
+ .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-search-type  > .wpmm-mega-menu-icon > i.fa-search,
+ .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-search-type  > .wpmm-mega-menu-icon > i.genericon-search,
+ .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-search-type  > .wpmm-mega-menu-icon > i.dashicons-search{
+  color:  #ffffff;
+
+}
+ .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-mega-wrapper .wpmega-searchinline input.search-field{
+  width: 182px;
+}
+
+/* Popup Search FOrm */
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li div.popup-search-form .wpmm-overlay-search{
+  background: #5ec073;
+  width: 182px;
+}
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li div.popup-search-form .wpmm-overlay-search form label input.search-field{
+	border:1px solid #5ec073;
+}
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li div.popup-search-form .wpmm-overlay-search{
+  font-family: ABeeZee;
+}
+
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme ul.wpmm-mega-wrapper li div.popup-search-form .wpmm-overlay-search form input[type="submit"]:hover{
+	background: ;
+	color: ;
+}
+/* search bar custom css end */
+
+/* top menu label custom css */
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-mega-menu-label::before {
+  	  border-color: #ff511e transparent transparent;
+  }
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-sub-menu-wrap ul.wp-mega-sub-menu li.wp-mega-menu-header a span.wpmm-mega-menu-label{
+     font-size:13px;
+        color:#ffffff;
+  }
+
+.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmm-mega-menu-label {
+	  background: #ff511e;
+      color:#ffffff;
+        font-size:13px;
+      font-weight: bold;
+       text-transform: uppercase;
+          font-family: Open Sans  	}
+
+
+
+
+
+/*Mobile settigns*/
+@media (max-width: 910px) {
+				       .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-horizontal,
+			       .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme.wpmm-orientation-vertical{
+			         background: #47a35b;
+			         
+			      }
+		
+		.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmegamenu-toggle{
+			display: block !important;
+			height: 40px;
+			background: #5ec073;
+			text-align:  left;
+		}	
+
+		.wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmegamenu-toggle .wpmega-closeblock{
+            display: none;
+		}
+
+		.main-navigation button.menu-toggle{
+			display: none;
+		}
+
+      .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmegamenu-toggle .wpmega-openblock,
+      .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .wpmegamenu-toggle .wpmega-closeblock{
+         color: #ffffff;
+     }
+
+     .wp-megamenu-main-wrapper.wpmm-ctheme-wrapper.wpmega-default-theme .close-primary{
+     	 color: #ffffff;
+     }
+
+}
+</style>
+
+
+
+<div id="wpmm-wrap-primary_navigation" class="wp-megamenu-main-wrapper wpmm-ctheme-wrapper wpmega-default-theme wpmega-enabled-mobile-menu wpmm-toggle-standard wpmm-onhover wpmm-orientation-horizontal  wpmm-fade "><div class="wpmegamenu-toggle wpmega-enabled-menutoggle" data-responsive-breakpoint="910px"><div class='wp-mega-toggle-block'><div class='wpmega-closeblock'><i class='dashicons dashicons-menu'></i></div><div class='wpmega-openblock'><i class='dashicons dashicons-no'></i></div><div class='menutoggle'>Menu</div></div></div><ul id="wpmega-menu-primary_navigation" class="wpmm-mega-wrapper wpmemgamenu-pro" data-advanced-click="wpmm-click-submenu" data-trigger-effect="wpmm-onhover"><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children wpmega-menu-megamenu wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-horizontal-full-width menu-item-24 menu-item-depth-0 no-dropdown' id='wp_nav_menu-item-24'><a class="wp-mega-menu-link" href="https://www.hostingplus.com.co/dominios/"><span class="wpmm-mega-menu-icon"><img src="" width="13" height="13"/></span><span class="wpmm-mega-menu-href-title">Dominios</span></a><div class='wpmm-sub-menu-wrap'>
+<div class='wpmm-sub-menu-wrapper wpmm-menu0'><ul class="wp-mega-sub-menu">
+	<li class='menu-item menu-item-type-widget menu-widget-class-widget_custom_html widget_custom_html wp-mega-menu-header wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-2columns-2total menu-item-custom_html-2 menu-item-depth-1 no-dropdown' id='wp_nav_menu-item-custom_html-2'><div class="textwidget custom-html-widget"><form action="https://clientes.hostingplus.com.co/cart.php?a=add&domain=register&currency=6&language=spanish" method="post">
+<div class="row">
+                    	    <div class="col-sm-3">
+                    	    	<div class="title-menu-dom">
+                    	    		<h2>Registro de Dominios Colombia</h2>
+                    	    		<span>Encuentra y Registra tu dominio a precio Rebajado</span>
+                    	    	</div>
+                    	    </div>
+                    	    <div class="col-sm-9">
+                    	    	<div class="form-dom">
+                    	    		<input type="text" name="sld" placeholder="Escribe el nombre del dominio" class="form-control" size="20" >
+                                         <select name="tld">
+                    	    			<option>.com.co</option>
+                    	    			<option>.co</option>
+                    	    			<option>.net</option>
+                    	    			<option>.org</option>
+                   	    			<option>.info</option>
+                    	    			<option>.co</option>
+                   	    			<option>.cl</option>
+                    	    		</select>
+                              <input type="submit" name="enviar" class="btn btn-success" value="Buscar Dominio">
+                    	    	</div>
+                    	    </div>
+                    	  </div>
+</form></div></li></ul></div>
+</li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children wpmega-menu-megamenu wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-horizontal-full-width menu-item-20 menu-item-depth-0 no-dropdown' id='wp_nav_menu-item-20'><a class="wp-mega-menu-link" href="https://www.hostingplus.com.co/hosting/"><span class="wpmm-mega-menu-href-title">Hosting</span></a><div class='wpmm-sub-menu-wrap'>
+<div class='wpmm-sub-menu-wrapper wpmm-menu0'><ul class="wp-mega-sub-menu">
+	<li class='menu-item menu-item-type-widget menu-widget-class-widget_wpmegamenu_pro_textimage widget_wpmegamenu_pro_textimage wp-mega-menu-header wpmega-show-arrow wpmm-submenu-align-left wpmm-menu-align-left wpmega-hide-menu-icon wpmega-2columns-8total menu-item-wpmegamenu_pro_textimage-1 menu-item-depth-1 no-dropdown' id='wp_nav_menu-item-wpmegamenu_pro_textimage-1'>          
+           <div class='wpmm-text-widgets'>
+           <div class="thumb">
+           <a href="/hosting/" target="_blank">
+                          <img src="https://www.hostingplus.cl/wp-content/uploads/2018/04/hosting.jpg"
+            class="image-responsive wpmm-post-image" alt="custom-image" width="250" height="250">
+                        <div class="overlay"></div>
+            </a>
+            </div>
+            <div class="wpmm-header">
+                            <h2 class="entry-title"><a href="/hosting/">
+                Hosting Robusto</a></h2>
+                                            <p class="wpmm-desc">Hosting es lo que hace que su sitio sea visible en la web. Ofrecemos planes rápidos y confiables para cada necesidad, desde una Web básica hasta un sitio de gran potencia. </p>
+                                             </div>
+            </div>
+       </li>	<li class='menu-item menu-item-type-widget menu-widget-class-widget_wlwi widget_wlwi wp-mega-menu-header wpmega-show-arrow wpmm-submenu-align-left wpmm-menu-align-left wpmega-hide-menu-icon wpmega-2columns-8total menu-item-wlwi-2 menu-item-depth-1 no-dropdown' id='wp_nav_menu-item-wlwi-2'><h4 class="wpmm-mega-block-title"></h4><ul class="links_with_icons"><li class="link_with_icon"><a href="/plan/plan-hosting-oferta-ssd/"><img src="//" alt=""><span>Hosting Oferta SSD</span></a></li><li class="link_with_icon"><a href="/plan/plan-hosting-pyme-ssd/"><img src="//" alt=""><span>Hosting Emprendedor SSD</span></a></li><li class="link_with_icon"><a href="/plan/hosting-wordpress/"><img src="//" alt=""><span>Hosting Wordpress</span></a></li></ul></li>	<li class='menu-item menu-item-type-widget menu-widget-class-widget_wlwi widget_wlwi wp-mega-menu-header wpmega-show-arrow wpmm-submenu-align-left wpmm-menu-align-left wpmega-hide-menu-icon wpmega-2columns-8total menu-item-wlwi-3 menu-item-depth-1 no-dropdown' id='wp_nav_menu-item-wlwi-3'><h4 class="wpmm-mega-block-title"></h4><ul class="links_with_icons"><li class="link_with_icon"><a href="/plan/plan-hosting-ecommerce/"><img src="//" alt=""><span>Hosting eCommerce</span></a></li><li class="link_with_icon"><a href="/plan/plan-hosting-empresa-ssd/"><img src="//" alt=""><span>Hosting Empresa SSD</span></a></li><li class="link_with_icon"><a href="/plan/plan-hosting-premium-ssd/"><img src="//" alt=""><span>Hosting Premium SSD</span></a></li></ul></li></ul></div>
+</li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children wpmega-menu-megamenu wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-horizontal-full-width menu-item-21 menu-item-depth-0 no-dropdown' id='wp_nav_menu-item-21'><a class="wp-mega-menu-link" href="https://www.hostingplus.com.co/servidores-vps.htm"><span class="wpmm-mega-menu-icon"><img src="" width="13" height="13"/></span><span class="wpmm-mega-menu-href-title">Servidores VPS</span></a><div class='wpmm-sub-menu-wrap'>
+<div class='wpmm-sub-menu-wrapper wpmm-menu0'><ul class="wp-mega-sub-menu">
+	<li class='menu-item menu-item-type-widget menu-widget-class-widget_wpmegamenu_pro_textimage widget_wpmegamenu_pro_textimage wp-mega-menu-header wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-2columns-8total menu-item-wpmegamenu_pro_textimage-2 menu-item-depth-1 no-dropdown' id='wp_nav_menu-item-wpmegamenu_pro_textimage-2'>          
+           <div class='wpmm-text-widgets'>
+           <div class="thumb">
+           <a href="/servidores-vps.htm" target="_blank">
+                          <img src="https://www.hostingplus.cl/wp-content/uploads/2018/04/vpss.jpg"
+            class="image-responsive wpmm-post-image" alt="custom-image" width="250" height="250">
+                        <div class="overlay"></div>
+            </a>
+            </div>
+            <div class="wpmm-header">
+                                                     </div>
+            </div>
+       </li>	<li class='menu-item menu-item-type-widget menu-widget-class-widget_wpmm_pro_post_heading_widget widget_wpmm_pro_post_heading_widget wp-mega-menu-header wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-6columns-8total menu-item-wpmm_pro_post_heading_widget-3 menu-item-depth-1 no-dropdown' id='wp_nav_menu-item-wpmm_pro_post_heading_widget-3'>
+              <div class="wpmmpro-postslist-wrapper">
+    
+                    <div class="wpmm-container">
+
+                        <div id="wpmmpro-posts-list" class="posts-list-area clearfix">
+                            
+                                                    
+                            <div class="wpmmpro-posts-list wpmm-layout1">
+                                
+                                 <!-- show featured image -->
+                                                                     <a href="https://www.hostingplus.com.co/plan/servidores-vps-oferta/" target="_self" class="wpmegamenu_post_item">
+                                    
+                                     
+                                     
+
+                                     
+                                     <span class="wpmm-posts-title">Servidor VPS Oferta</span>
+                                    
+                                    <div class="posts-extra-details">
+                                                                                                               <span class="wpmm-entry-date"><span>on</span> 11 agosto, 2017</span>
+                                                                          </div>
+
+                                 
+                                  
+
+
+                                                                         <div class="wpmmpro_post_content">
+                                          <p>Las ventajas de un servidor dedicado con el precio de un hosting compartido.</p>    
+                                     </div>
+                                                                                                             </a>
+            
+                                  
+                                
+                                 <!-- show featured image -->
+                                                                     <a href="https://www.hostingplus.com.co/plan/servidores-vps-medio/" target="_self" class="wpmegamenu_post_item">
+                                    
+                                     
+                                     
+
+                                     
+                                     <span class="wpmm-posts-title">Servidor VPS Medio</span>
+                                    
+                                    <div class="posts-extra-details">
+                                                                                                               <span class="wpmm-entry-date"><span>on</span> 11 agosto, 2017</span>
+                                                                          </div>
+
+                                 
+                                  
+
+
+                                                                         <div class="wpmmpro_post_content">
+                                          <p>Consiga el rendimiento de un servidor dedicado con la facilidad de un hosting compartido.</p>    
+                                     </div>
+                                                                                                             </a>
+            
+                                  
+                                
+                                 <!-- show featured image -->
+                                                                     <a href="https://www.hostingplus.com.co/plan/servidores-vps-gold/" target="_self" class="wpmegamenu_post_item">
+                                    
+                                     
+                                     
+
+                                     
+                                     <span class="wpmm-posts-title">Servidor VPS Gold</span>
+                                    
+                                    <div class="posts-extra-details">
+                                                                                                               <span class="wpmm-entry-date"><span>on</span> 11 agosto, 2017</span>
+                                                                          </div>
+
+                                 
+                                  
+
+
+                                                                         <div class="wpmmpro_post_content">
+                                          <p>Amplié sus Recursos de disco duro, memoria, CPU según tus necesidades en minutos.</p>    
+                                     </div>
+                                                                                                             </a>
+            
+                                  
+                                
+                                 <!-- show featured image -->
+                                                                     <a href="https://www.hostingplus.com.co/plan/servidores-vps-premium/" target="_self" class="wpmegamenu_post_item">
+                                    
+                                     
+                                     
+
+                                     
+                                     <span class="wpmm-posts-title">Servidor VPS Premium</span>
+                                    
+                                    <div class="posts-extra-details">
+                                                                                                               <span class="wpmm-entry-date"><span>on</span> 11 agosto, 2017</span>
+                                                                          </div>
+
+                                 
+                                  
+
+
+                                                                         <div class="wpmmpro_post_content">
+                                          <p> Disponga de toda la potencia, privacidad y seguridad que te otorgan nuestros servidores VPS.</p>    
+                                     </div>
+                                                                                                             </a>
+            
+                                  
+                                                    
+                            </div>
+                          
+                        </div>
+                    </div>
+    
+            </div><!-- End Posts --> 
+            </li></ul></div>
+</li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children wpmega-menu-megamenu wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-horizontal-full-width menu-item-22 menu-item-depth-0 no-dropdown' id='wp_nav_menu-item-22'><a class="wp-mega-menu-link" href="https://www.hostingplus.com.co/servidores-housing-dedicados.htm"><span class="wpmm-mega-menu-icon"><img src="" width="13" height="13"/></span><span class="wpmm-mega-menu-href-title">Dedicados</span></a><div class='wpmm-sub-menu-wrap'>
+<div class='wpmm-sub-menu-wrapper wpmm-menu0'><ul class="wp-mega-sub-menu">
+	<li class='menu-item menu-item-type-widget menu-widget-class-widget_wpmegamenu_pro_textimage widget_wpmegamenu_pro_textimage wp-mega-menu-header wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-2columns-8total menu-item-wpmegamenu_pro_textimage-3 menu-item-depth-1 no-dropdown' id='wp_nav_menu-item-wpmegamenu_pro_textimage-3'>          
+           <div class='wpmm-text-widgets'>
+           <div class="thumb">
+           <a href="/servidores-housing-dedicados.htm" target="_blank">
+                          <img src="https://www.hostingplus.cl/wp-content/uploads/2018/04/dedica.jpg"
+            class="image-responsive wpmm-post-image" alt="custom-image" width="250" height="250">
+                        <div class="overlay"></div>
+            </a>
+            </div>
+            <div class="wpmm-header">
+                                                     </div>
+            </div>
+       </li>	<li class='menu-item menu-item-type-widget menu-widget-class-widget_wpmm_pro_post_heading_widget widget_wpmm_pro_post_heading_widget wp-mega-menu-header wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-6columns-8total menu-item-wpmm_pro_post_heading_widget-4 menu-item-depth-1 no-dropdown' id='wp_nav_menu-item-wpmm_pro_post_heading_widget-4'>
+              <div class="wpmmpro-postslist-wrapper">
+    
+                    <div class="wpmm-container">
+
+                        <div id="wpmmpro-posts-list" class="posts-list-area clearfix">
+                            
+                                                    
+                            <div class="wpmmpro-posts-list wpmm-layout1">
+                                
+                                 <!-- show featured image -->
+                                                                     <a href="https://www.hostingplus.com.co/plan/servidor-dedicado-oferta/" target="_self" class="wpmegamenu_post_item">
+                                    
+                                     
+                                     
+
+                                     
+                                     <span class="wpmm-posts-title">Servidor Dedicado Oferta</span>
+                                    
+                                    <div class="posts-extra-details">
+                                                                                                                 </div>
+
+                                 
+                                  
+
+
+                                                                         <div class="wpmmpro_post_content">
+                                          <p>Para aquellas empresas que necesitan un servidor físico para sus aplicaciones y sistemas.</p>    
+                                     </div>
+                                                                                                             </a>
+            
+                                  
+                                
+                                 <!-- show featured image -->
+                                                                     <a href="https://www.hostingplus.com.co/plan/servidor-dedicado-medio/" target="_self" class="wpmegamenu_post_item">
+                                    
+                                     
+                                     
+
+                                     
+                                     <span class="wpmm-posts-title">Servidor Dedicado Medio</span>
+                                    
+                                    <div class="posts-extra-details">
+                                                                                                                 </div>
+
+                                 
+                                  
+
+
+                                                                         <div class="wpmmpro_post_content">
+                                          <p>Alta disponibilidad, Hardware de vanguardia, Fuentes de alimentación redundantes.</p>    
+                                     </div>
+                                                                                                             </a>
+            
+                                  
+                                
+                                 <!-- show featured image -->
+                                                                     <a href="https://www.hostingplus.com.co/plan/servidor-dedicado-gold/" target="_self" class="wpmegamenu_post_item">
+                                    
+                                     
+                                     
+
+                                     
+                                     <span class="wpmm-posts-title">Servidor Dedicado Gold</span>
+                                    
+                                    <div class="posts-extra-details">
+                                                                                                                 </div>
+
+                                 
+                                  
+
+
+                                                                         <div class="wpmmpro_post_content">
+                                          <p>A su disposición sistemas operativos de gran alcance, como Linux o Windows.</p>    
+                                     </div>
+                                                                                                             </a>
+            
+                                  
+                                
+                                 <!-- show featured image -->
+                                                                     <a href="https://www.hostingplus.com.co/plan/servidor-dedicado-premium/" target="_self" class="wpmegamenu_post_item">
+                                    
+                                     
+                                     
+
+                                     
+                                     <span class="wpmm-posts-title">Servidor Dedicado Premium</span>
+                                    
+                                    <div class="posts-extra-details">
+                                                                                                                 </div>
+
+                                 
+                                  
+
+
+                                                                         <div class="wpmmpro_post_content">
+                                          <p>Rendimiento de alto nivel gracias al uso de nuestros potentes procesadores Intel Xeon. </p>    
+                                     </div>
+                                                                                                             </a>
+            
+                                  
+                                                    
+                            </div>
+                          
+                        </div>
+                    </div>
+    
+            </div><!-- End Posts --> 
+            </li></ul></div>
+</li><li class='menu-item menu-item-type-post_type menu-item-object-page wpmega-menu-flyout wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-flyout-horizontal-right menu-item-23 menu-item-depth-0 no-dropdown' id='wp_nav_menu-item-23'><a class="wp-mega-menu-link" href="https://www.hostingplus.com.co/productos/"><span class="wpmm-mega-menu-icon"><img src="" width="13" height="13"/></span><span class="wpmm-mega-menu-href-title">Productos</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children wpmega-menu-megamenu wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-horizontal-full-width menu-item-25 menu-item-depth-0 no-dropdown' id='wp_nav_menu-item-25'><a class="wp-mega-menu-link" href="https://www.hostingplus.com.co/contacto/"><span class="wpmm-mega-menu-icon"><img src="" width="13" height="13"/></span><span class="wpmm-mega-menu-href-title">Contacto</span></a><div class='wpmm-sub-menu-wrap'>
+<div class='wpmm-sub-menu-wrapper wpmm-menu0'><ul class="wp-mega-sub-menu">
+	<li class='menu-item menu-item-type-widget menu-widget-class-widget_wpmegamenu_contact_info widget_wpmegamenu_contact_info wp-mega-menu-header wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-2columns-6total menu-item-wpmegamenu_contact_info-2 menu-item-depth-1 no-dropdown' id='wp_nav_menu-item-wpmegamenu_contact_info-2'><h4 class="wpmm-mega-block-title">¿Necesitas ayuda?, ¡Contactanos!</h4><div class='wpmegamenu-contact-info'><div class='wpmm-social-shortcodes'><p>Mesa Central +57 601 3819361</p>
+<span>Lun a Vie de las 8 a las 18h</span></div></div></li>	<li class='menu-item menu-item-type-widget menu-widget-class-widget_wpmegamenu_contact_info widget_wpmegamenu_contact_info wp-mega-menu-header wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-2columns-6total menu-item-wpmegamenu_contact_info-3 menu-item-depth-1 no-dropdown' id='wp_nav_menu-item-wpmegamenu_contact_info-3'><div class='wpmegamenu-contact-info'><p>Soporte via Ticket 24/7</p><p><i class='fa fa-envelope-o'></i>soporte@hostingplus.com.co</p><div class='wpmm-social-shortcodes'><a href="https://clientes.hostingplus.pe/submitticket.php" class="btn btn-default">Abrir Ticket</a></div></div></li>	<li class='menu-item menu-item-type-widget menu-widget-class-widget_wpmegamenu_contact_info widget_wpmegamenu_contact_info wp-mega-menu-header wpmega-show-arrow wpmm-menu-align-left wpmega-hide-menu-icon wpmega-2columns-6total menu-item-wpmegamenu_contact_info-4 menu-item-depth-1 no-dropdown' id='wp_nav_menu-item-wpmegamenu_contact_info-4'><div class='wpmegamenu-contact-info'><p>Emergencias: +57 601 3819361</p><p>Ventas: ventas@hostingplus.com.co</p><div class='wpmm-social-shortcodes'><a href="/contacto/" class="btn btn-primary">Contactanos</a></div></div></li></ul></div>
+</li></ul><div class="wpmega-responsive-closebtn" id="close-primary_navigation">CLOSE</div></div>          </div>
+          <div class="hidden-md hidden-lg text-right">
+            <button id="trigger-overlay" type="button"><i class="fa fa-bars"></i></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>    <section id="post-2342" class="sec_general post-2342 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias category-tutoriales">
+    <div class="container">
+	    <div class="row">
+	      	<div class="col-sm-8">
+		        <div class="post-content">
+		          <div class="blog-post-title">
+		            <h1>Archivo Index.html: para qué sirve y cómo se crea</h1>
+		            <span>Por <a href="">Felipe</a></span>
+		          </div>
+		          <div class="post-data">
+		            <p><i class="fa fa-clock-o"></i> Publicado en: <time class="published" datetime="2020-04-19T11:22:00-05:00">19 abril, 2020</time></p>
+		          </div>
+		          <div class="image-post-content">
+		            <img src="https://www.hostingplus.com.co/wp-content/uploads/2020/03/index-html.jpg" class="img-responsive">
+		          </div>
+		          <div class="text-post-content">
+		            <div class="page">
+<div class="page-main">
+<div class="my-3 my-md-5">
+<div class="container">
+<div class="row">
+<div class="col-lg-9 col-md-12 col-sm-12">
+<div class="card">
+<div class="card-body articleview">
+<div class="col col-lg-12">
+<p>Si eres novato en diseño o desarrollo web es posible que te preguntes <strong>qué es index.html</strong> y el motivo por el que aparece en la mayoría de webs. <strong>No te preocupes, vamos a darte respuesta a todas tus dudas.</strong></p>
+<h2><strong>¿Qué es index?</strong></h2>
+<p><strong>Index.html es la página por defecto</strong> dentro de los directorios de los servidores de los sitios webs que se carga siempre que se solicita un dominio y no se especifica el nombre de un archivo específico. En este caso el propio servidor web se encarga de buscar el archivo index.html y mostrarlo al visitante. Así, si por ejemplo tecleamos en nuestro navegador https://www.mipagina.com, nuestro servidor podría estar sirviendo realmente https://www.mipagina.com/index.html.</p>
+<p><strong>La palabra index viene del inglés, que significa índice. </strong>Si extrapolamos el significado al desarrollo web,<strong> index sería la página principal o el home de nuestra web.</strong> No obstante, es importante señalar que nuestra página principal puede llamarse de otro modo, ya que podemos configurar el servidor para que busque por defecto otro archivo concreto. Del mismo modo, no es necesario que la extensión sea HTML, que es la extensión más utilizada en sitios estáticos. Si por ejemplo programamos nuestra web en PHP, lo lógico será que tengamos un archivo index.php.</p>
+<p>Ten en cuenta que si tenemos un archivo index.php, index.asp, etc., es necesario que el servidor sea capaz de trabajar con estos archivos.</p>
+<h2><strong>¿Cómo crear un index.html para mi web?</strong></h2>
+<p><strong>Para crear un index en HTML es necesario utilizar un editor de texto o un entorno de desarrollo</strong>. Nuestra página index tendrá la misma estructura que las páginas creadas en HTML:</p>
+<p>&nbsp;</p>
+<p>&lt;html&gt;</p>
+</div>
+<div class="col col-lg-12">&lt;head&gt;&lt;/head&gt;</div>
+<div class="col col-lg-12">&lt;body&gt;</div>
+<div class="col col-lg-12">         &lt;h1&gt;Esta es mi página index.html&lt;/h1&gt;</div>
+<div class="col col-lg-12">         &lt;p&gt;Aquí va todo mi contenido de la página inicial que debe cargar mi dominio&lt;/p&gt; &lt;/body&gt;</div>
+<div class="col col-lg-12">&lt;/html&gt;</div>
+<div class="col col-lg-12"></div>
+<div class="col col-lg-12">
+<p><strong>Es necesario tener conocimientos de HTML y de maquetación web para crear la página correctamente.</strong> Una vez la tengamos hecha, será necesario dejarla en el directorio raíz del servidor al que apunte nuestro dominio.</p>
+<h2><strong>¿Cómo sustituir index.html por otra página con .htaccess?</strong></h2>
+<p>Como mencionábamos anteriormente, es posible configurar nuestro servidor para que cargue una página diferente a index.html por defecto. No obstante, también podemos hacerlo de una forma más sencilla, con un archivo .htaccess.</p>
+<p><strong>Es una buena práctica crear un archivo .htaccess en nuestro directorio para crear una configuración</strong>, especialmente si tenemos hosting compartido.</p>
+<p>El archivo .htaccess se coloca en la raíz del directorio de nuestra web y para cambiar la página de inicio debemos añadir la siguiente línea.</p>
+<p>DirectoryIndex mi-index.html index.html index.php</p>
+<p>Con esta línea lo que estamos ordenando es que la página de inicio por defecto que se debe tratar de mostrar al usuario final es mi-index.html, en caso de que, por algún motivo no se pueda cargar esta página, lo intentará con index.html y si también hay problemas para cargar esta página, se intentará una vez más mostrando index.php.</p>
+<p>&nbsp;</p>
+<p><strong>Ahora ya sabes qué es index.html y para qué sirve</strong>, una información muy útil a la hora de comenzar en el desarrollo web. El siguiente paso es aprender a codificar en HTML, así como aprender a aplicar estilos con CSS. ¡Mucho ánimo con tu aprendizaje!</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+		          </div>
+		        </div>
+		        <div class="rating">
+		        	<h3>Califica nuestro articulo</h3>
+		        	<br>
+<div class="kk-star-ratings
+            "
+    data-payload="{&quot;id&quot;:&quot;2342&quot;,&quot;slug&quot;:&quot;default&quot;,&quot;reference&quot;:&quot;template&quot;,&quot;align&quot;:&quot;&quot;,&quot;count&quot;:&quot;0&quot;,&quot;readonly&quot;:&quot;&quot;,&quot;score&quot;:&quot;0&quot;,&quot;valign&quot;:&quot;&quot;,&quot;best&quot;:&quot;5&quot;,&quot;gap&quot;:&quot;5&quot;,&quot;greet&quot;:&quot;&quot;,&quot;legend&quot;:&quot;0\/5 - (0 votos)&quot;,&quot;size&quot;:&quot;24&quot;,&quot;width&quot;:&quot;0&quot;,&quot;_legend&quot;:&quot;{score}\/{best} - ({count} votos)&quot;}">
+    
+<div class="kksr-stars">
+    
+<div class="kksr-stars-inactive">
+            <div class="kksr-star" data-star="1" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="2" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="3" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="4" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="5" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+    </div>
+    
+<div class="kksr-stars-active" style="width: 0px;">
+            <div class="kksr-star" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+    </div>
+</div>
+    
+<div class="kksr-legend">
+            <span class="kksr-muted"></span>
+    </div>
+</div>
+		        </div>
+	      	</div>
+	      	
+	      	<div class="col-sm-4">
+		        <div class="sidebars-blog">
+		        	<section class="widget search-2 widget_search"><form role="search" method="get" class="search-form form-inline" action="https://www.hostingplus.com.co/">
+  <label class="sr-only">Search for:</label>
+  <div class="input-group">
+    <input type="search" value="" name="s" class="search-field form-control" placeholder="Buscar por">
+    <span class="input-group-btn">
+      <button type="submit" class="search-submit btn btn-default"><i class="fa fa-search"></i></button>
+    </span>
+  </div>
+</form>
+</section><section class="widget categories-2 widget_categories"><h3>Categorias</h3>
+			<ul>
+					<li class="cat-item cat-item-35"><a href="https://www.hostingplus.com.co/blog/category/tutoriales/configuracion-correo/">Configuracion correo</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="https://www.hostingplus.com.co/blog/category/tutoriales/configuracion-dominio/">Configuracion Dominio DNS</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://www.hostingplus.com.co/blog/category/noticias/">Noticias</a>
+</li>
+	<li class="cat-item cat-item-1239"><a href="https://www.hostingplus.com.co/blog/category/notiias/">Notiias</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="https://www.hostingplus.com.co/blog/category/tutoriales/panel-de-control-cpanel/">Panel de Control (Cpanel)</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://www.hostingplus.com.co/blog/category/tutoriales/">Tutoriales y Video Soporte</a>
+</li>
+			</ul>
+
+			</section>		        </div>
+	      	</div>
+	    </div>
+    </div>
+</section>
+    <div class="f_contacto">
+  <div class="container">
+    <div class="box_contact">
+      <div class="box_perfil">
+        <h4>Necesitas Ayuda? Contáctanos!</h4>
+        <h3><a href="tel: (601) 3819361">(601) 3819361</a></h3>
+        <p>Soporte Mesa Central  <a href="tel:(601) 3819361">(601) 3819361</a> - </p> 
+        <p>Emergencias: <a href="tel:+57 601 3819361">+57 601 3819361</a> - </p>
+        <p><a href="mailto: Tickets 24/7 soporte@hostingplus.com.co"> Tickets 24/7 soporte@hostingplus.com.co</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<footer>
+  <div class="f_center">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3 col-xs-12">
+          	<section class="widget nav_menu-2 widget_nav_menu"><h5>Productos y Servicios</h5><ul id="menu-productos-y-servicios" class="menu"><li class="menu-hosting"><a href="https://www.hostingplus.com.co/hosting/">Hosting</a></li>
+<li class="menu-servidores-vps"><a href="https://www.hostingplus.com.co/servidores-vps.htm">Servidores VPS</a></li>
+<li class="menu-servidores-dedicados"><a href="https://www.hostingplus.com.co/servidores-housing-dedicados.htm">Servidores Dedicados</a></li>
+<li class="menu-productos"><a href="https://www.hostingplus.com.co/productos/">Productos</a></li>
+<li class="menu-registro-de-dominios"><a href="https://www.hostingplus.com.co/dominios/">Registro de Dominios</a></li>
+</ul></section>        </div>
+        <div class="col-sm-2 col-xs-12">
+          	<section class="widget nav_menu-3 widget_nav_menu"><h5>Empresa</h5><ul id="menu-nuestros-servicios" class="menu"><li class="menu-nosotros"><a href="https://www.hostingplus.com.co/nosotros/">Nosotros</a></li>
+<li class="menu-clientes"><a href="https://www.hostingplus.com.co/clientes/">Clientes</a></li>
+<li class="menu-partners"><a href="https://www.hostingplus.com.co/partners/">Partners</a></li>
+<li class="menu-carbono-neutral"><a href="https://www.hostingplus.com.co/carbono-neutral/">Carbono Neutral</a></li>
+<li class="menu-enlaces"><a href="https://www.hostingplus.com.co/enlaces/">Enlaces</a></li>
+</ul></section>        </div>
+        <div class="col-sm-2 col-xs-12">
+          	<section class="widget nav_menu-4 widget_nav_menu"><h5>Soporte</h5><ul id="menu-menu-footer" class="menu"><li class="menu-contacto"><a href="https://www.hostingplus.com.co/contacto/">Contacto</a></li>
+<li class="menu-preguntas-frecuentes"><a href="https://www.hostingplus.com.co/preguntas-frecuentes/">Preguntas Frecuentes</a></li>
+<li class="menu-notificar-pago"><a href="https://www.hostingplus.com.co/notificar-pago/">Notificar Pago</a></li>
+<li class="menu-tutoriales"><a href="https://clientes.hostingplus.lat/knowledgebase">Tutoriales</a></li>
+</ul></section>        </div>
+        <div class="col-sm-2 col-xs-12">
+          	<section class="widget nav_menu-5 widget_nav_menu"><h5>Otros</h5><ul id="menu-otro" class="menu"><li class="menu-formas-de-pago"><a href="https://www.hostingplus.com.co/formas-de-pago/">Formas de pago</a></li>
+<li class="menu-acceso-cpanel"><a href="https://www.hostingplus.com.co/servicio-cpanel/">Acceso cPanel</a></li>
+<li class="menu-acceso-webmail"><a href="https://www.hostingplus.com.co/servicio-webmail/">Acceso Webmail</a></li>
+<li class="menu-noticias"><a href="https://www.hostingplus.com.co/blog/">Noticias</a></li>
+</ul></section>        </div>
+        <div class="col-sm-3 col-xs-12">
+        	<img src="https://www.hostingplus.com.co/wp-content/uploads/2018/01/logo_footer-1.png" class="img-responsive logo-footer" alt="Hosting Plus Colombia">
+        	<ul>
+        		        	  	<li><a href="tel:(601) 3819361">Contáctanos! <br>Linea Central <br>Bogotá, Colombia: (601) 3819361</a></li>
+        	  	        	</ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<div class="f_bottom">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-6 col-xs-12">
+        <p>Hosting y Dominio Colombia. Hosting ilimitado con Dominio Gratis. El Mejor Hosting VPS en Colombia</p>
+      </div>
+      <div class="col-md-4 col-sm-4 col-xs-12">
+      	        <span><img src="https://www.hostingplus.com.co/wp-content/uploads/2019/12/tarjeta-de-credito-y-debito-disponible.jpg" class="img-responsive" style="max-width: 90px;" alt="Tarjetas de Credito"></span>
+                <span><img src="https://www.hostingplus.com.co/wp-content/uploads/2019/11/logo-pse.png" class="img-responsive" style="max-width: 90px;" alt="PSE Colombia"></span>
+                <span><img src="https://www.hostingplus.com.co/wp-content/uploads/2017/08/norton.png" class="img-responsive" style="max-width: 90px;" alt="Norton Secured"></span>
+                 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-12">
+        <span>Síguenos en:</span>
+        <ul class="rrss">
+        	          	<li><a target="_blank" href="https://www.facebook.com/HostingplusLAT/"><i class="fa fa-facebook"></i></a></li>
+          	          	<li><a target="_blank" href="https://www.instagram.com/hostingpluslat/"><i class="fa fa-google-plus"></i></a></li>
+          	          	<li><a target="_blank" href="https://twitter.com/hostingpluslat"><i class="fa fa-twitter"></i></a></li>
+          	  
+        </ul>                 
+      </div>
+    </div>
+  </div>
+</div>
+<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
+<div id="ci3kJo" style="z-index:100;position:absolute"></div><div id="sc3kJo" style="display:inline;position:fixed;z-index:9999;bottom:0;right:20px;"></div><div id="sd3kJo" style="display:none"></div><script type="text/javascript">var se3kJo=document.createElement("script");se3kJo.type="text/javascript";var se3kJos=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/07wxi844xx7k21eedwajf25ib3/safe-standard.js?ps_h=3kJo&ps_t="+new Date().getTime();setTimeout("se3kJo.src=se3kJos;document.getElementById('sd3kJo').appendChild(se3kJo)",1)</script><noscript><div style="display:inline"></div></noscript>
+<!-- END ProvideSupport.com Graphics Chat Button Code -->  </div>
+    
+  <div class="overlay-content overlay-slidedown">
+    <button type="button" class="overlay-close">Close</button>
+    <nav>
+      <ul id="menu-menu-mobile" class="menu"><li class="menu-home"><a href="https://www.hostingplus.com.co/">Home</a></li>
+<li class="menu-hosting"><a href="https://www.hostingplus.com.co/hosting/">Hosting</a></li>
+<li class="menu-servidores-vps"><a href="https://www.hostingplus.com.co/servidores-vps.htm">Servidores VPS</a></li>
+<li class="menu-servidores-dedicados"><a href="https://www.hostingplus.com.co/servidores-housing-dedicados.htm">Servidores Dedicados</a></li>
+<li class="menu-productos"><a href="https://www.hostingplus.com.co/productos/">Productos</a></li>
+<li class="menu-registro-de-dominios"><a href="https://www.hostingplus.com.co/dominios/">Registro de Dominios</a></li>
+<li class="menu-contacto"><a href="https://www.hostingplus.com.co/contacto/">Contacto</a></li>
+</ul>    </nav>
+  </div>
+  <script type='text/javascript' id='kk-star-ratings-js-extra'>
+/* <![CDATA[ */
+var kk_star_ratings = {"action":"kk-star-ratings","endpoint":"https:\/\/www.hostingplus.com.co\/wp-admin\/admin-ajax.php","nonce":"01a66b1fc5"};
+/* ]]> */
+</script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/9ce126d31a24eddc8ba4aa49c9f50431.js?ver=1dad4' id='kk-star-ratings-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/4ce9163e6943996d8c004aef73d57e6a.js?ver=ce20a' id='regenerator-runtime-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/2d31f6de9b8f602fd64922848a6e50ef.js?ver=c8eb6' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.hostingplus.com.co\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/fc2503b15ec77118d53bdd6e917e3faa.js?ver=7f0f9' id='contact-form-7-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/efdaea336aec5a727ed2a1e1ccec1ae8.js?ver=8d423' id='wordpress-country-selector-bootstrap-js'></script>
+<script type='text/javascript' id='wordpress-country-selector-public-js-extra'>
+/* <![CDATA[ */
+var country_selector_options = {"cookie_lifetime":"60","redirectOnCookie":"0","ajax_url":"https:\/\/www.hostingplus.com.co\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/78ea2f13c2481755dfef3d5bbfe7248b.js?ver=76eb6' id='wordpress-country-selector-public-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcLO90UAAAAAHTmop5uOVUEoWHT4tbC2JtMBT6w&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcLO90UAAAAAHTmop5uOVUEoWHT4tbC2JtMBT6w","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/3e3fe119cc15b18b640dfec21d9edf24.js?ver=edf24' id='wpcf7-recaptcha-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/ea8ba5469e62bb39bd730b447feb057f.js?ver=d0928' id='comment-reply-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/fffb24caa32e37dbcb9a8b1d9fdb53a5.js?ver=b53a5' id='roots_js-js'></script>
+<script data-optimized="1" type='text/javascript' src='https://www.hostingplus.com.co/wp-content/litespeed/js/2425475474696ec508c70f003d2386fc.js?ver=cf716' id='wp-embed-js'></script>
+</body>
+</html>
+
+<!-- Page generated by LiteSpeed Cache 4.6 on 2022-08-08 09:38:00 -->

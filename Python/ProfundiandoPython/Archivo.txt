@@ -1,0 +1,25 @@
+import re
+
+def vectorizacion(lista):
+    nuevalista = []
+    for  i in lista:
+        new= i.split()
+      #  print(new)
+        for contador,m in enumerate(new,0):
+            #print(contador, m)
+            frecuencia = new.count(m)
+            #print(frecuencia)
+            new[contador] = frecuencia
+            #nuevalista.append(frecuencia)
+            #print(nuevalista)
+            #otrafuncion(nuevalista)
+        print(new)
+try:
+    archivo = open("Archivo.txt" ,"r",encoding='utf8')
+    vectorizacion(archivo.readlines())
+except Exception as e:
+    print(e)
+
+finally:
+
+    print('fin del archivo')
